@@ -15,7 +15,7 @@
 
   <view class="tag_maxdiv" style="width:100%;margin-top: 40rpx;">
     <view class="lbt_div">
-      <swiper class="swiper-box"  indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" style="height:100%;" previous-margin="90rpx" next-margin="80rpx" circular="{{circular}}" bindchange="swiperChange">
+      <swiper class="swiper-box"  indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" style="height:100%;" previous-margin="110rpx" next-margin="80rpx" circular="{{circular}}" bindchange="swiperChange">
         <swiper-item wx:for="{{imgUrl}}" wx:key="imgUrl" >
             <image mode="widthFix" src="{{item.url}}" style="width: {{item.width}};height: {{item.height}}; margin-top: {{item.marginTop}};" bindtap="swipclick"/>
         </swiper-item>
