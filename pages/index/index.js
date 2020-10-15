@@ -6,7 +6,7 @@ Page({
    */
   data: {
     imgUrl:[
-      'https://img12.360buyimg.com/ddimg/jfs/t1/137204/29/12147/538553/5f880ef5Ebf447b3b/4421e68fa392c967.png',
+      'https://img14.360buyimg.com/ddimg/jfs/t1/145648/22/10851/498741/5f881e74E2709c116/8970ce38e6976c24.png',
       'https://img13.360buyimg.com/ddimg/jfs/t1/124096/22/15001/541952/5f880f11Ee66cfa7c/9325e622eb5fc1ae.png',
       'https://img10.360buyimg.com/ddimg/jfs/t1/147161/30/10873/458621/5f880f21Ee41da51c/aa04d76e0d9a648b.png',
       'https://img14.360buyimg.com/ddimg/jfs/t1/120330/11/15225/476708/5f880f42E71bd8a98/1b49271871ae29e0.png'
