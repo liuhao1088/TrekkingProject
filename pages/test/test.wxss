@@ -39,6 +39,22 @@
   -webkit-animation-fill-mode: both !important;
 }
 
+/* .toShow {
+  animation: toShow 1.5s 0.5s;
+  animation: toShow 1.5s 0.5s;
+  animation-fill-mode: both !important;
+  -webkit-animation-fill-mode: both !important;
+}
+
+@keyframes toShow {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+@-webkit-keyframes toShow {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+} */
+
 @keyframes bounceInLeft {
 
   from,

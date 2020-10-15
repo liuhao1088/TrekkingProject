@@ -3,9 +3,10 @@
   float: left;
 }
 
+/* 轮播图 */
 .lbt_div {
   width: 100%;
-  height: 550rpx;
+  height: 1150rpx;
 }
 
 .slide-image {
@@ -13,8 +14,67 @@
   height: 100%;
 }
 
+image{
+  height: 100%;
+  width: 100%;
+}
+
+.swiper-box .wx-swiper-dots.wx-swiper-dots-horizontal{
+  margin-bottom: 2rpx;
+  
+  }
+  
+  .swiper-box .wx-swiper-dot{
+  width:40rpx;
+  
+  display: inline-flex;
+  
+  height: 10rpx;
+  
+  margin-left: 10rpx;
+ 
+  
+  justify-content:space-between;
+  
+  }
+  
+  .swiper-box .wx-swiper-dot::before{
+  content: '';
+  
+  flex-grow: 1;
+  border-radius: 10rpx;
+  background: #B1EEDF;
+  }
+  
+  .swiper-box .wx-swiper-dot-active::before{
+  background:#08D2A2;
+  }
+
 .yxzc_div{
   width: 100%;
   background-color: #202020;
   float: left;
+}
+
+.titile_div{
+  width: 100%;
+  height: 100rpx;
+  border-bottom: 4rpx solid #EDEDED;
+}
+
+.title{
+  height: 100%;
+  line-height: 120rpx;
+  float: left;
+  color: #C4C4C4;
+  font-size: 30rpx;
+  font-weight: 600;
+}
+
+.logo{
+  height: 100%;
+  line-height: 120rpx;
+  float: right;
+  color: #E2E2E2;
+  font-size: 24rpx;
 }

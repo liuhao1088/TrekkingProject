@@ -1,20 +1,43 @@
 <view class="container">
   <view class="tag_maxdiv" style="width:100%;">
+    <image mode="widthFix"
+          src="https://img13.360buyimg.com/ddimg/jfs/t1/152248/10/2304/503626/5f880c74Efad85701/6a856a589170e017.png" />
+  </view>
+
+  <view class="tag_maxdiv">
+      <view class="titile_div">
+        <view class="title">系列产品介绍</view>
+        <view class="logo">Product introduction</view>
+      </view>
+  </view>
+
+
+
+  <view class="tag_maxdiv" style="width:100%;margin-top: 40rpx;">
     <view class="lbt_div">
-      <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}"
-        style="height:100%;">
+      <swiper class="swiper-box"  indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" style="height:100%;">
         <swiper-item wx:for="{{imgUrl}}" wx:key="imgUrl">
-          <image mode="widthFix" src="{{item}}" class="slide-image" />
+            <image mode="widthFix" src="{{item}}" class="slide-image" bindtap="swipclick"/>
         </swiper-item>
 
       </swiper>
     </view>
   </view>
 
+
+
+  <view class="tag_maxdiv" style="margin-top: 40rpx;">
+    <image mode="widthFix"
+          src="https://ae03.alicdn.com/kf/Hec0ff630f32e468da19fec47a61dec89C.jpg" />
+  </view>
+
+
+
+
   <view class="tag_maxdiv" style="width: 100%;margin-top: 20rpx;">
     <view class="yxzc_div">
       <image mode="widthFix" style="width: 100%;height: 100%;"
-        src="https://img10.360buyimg.com/ddimg/jfs/t1/151929/33/1179/62216/5f745004E8536a0bd/9aa0a6dac7ee24d9.jpg">
+        src="https://ae02.alicdn.com/kf/Hd0aa4bd1f0a846eab5254e2a61c6e295v.jpg">
       </image>
     </view>
   </view>

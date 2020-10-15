@@ -6,12 +6,16 @@ Page({
    */
   data: {
     imgUrl:[
-      'https://img10.360buyimg.com/ddimg/jfs/t1/117312/20/18925/815432/5f73e111E35d9bf6e/ec454d11938054b2.png',
-      'https://img13.360buyimg.com/ddimg/jfs/t1/111639/2/19082/393744/5f73e127E304379b2/8d2e2ef8ce957264.jpg',
-      'https://img10.360buyimg.com/ddimg/jfs/t1/118444/33/19054/417237/5f73e147E3e3eb06b/cddb13d6d9d8d851.jpg'
+      'https://img12.360buyimg.com/ddimg/jfs/t1/137204/29/12147/538553/5f880ef5Ebf447b3b/4421e68fa392c967.png',
+      'https://img13.360buyimg.com/ddimg/jfs/t1/124096/22/15001/541952/5f880f11Ee66cfa7c/9325e622eb5fc1ae.png',
+      'https://img10.360buyimg.com/ddimg/jfs/t1/147161/30/10873/458621/5f880f21Ee41da51c/aa04d76e0d9a648b.png',
+      'https://img14.360buyimg.com/ddimg/jfs/t1/120330/11/15225/476708/5f880f42E71bd8a98/1b49271871ae29e0.png'
     ],
-    imgArr:[
-      'https://ae04.alicdn.com/kf/H1c219d1be8784a94a6350a887718c2b93.jpg'
+    links: [
+      '../test/test',
+      '',
+      '',
+      ''
     ],
      active: 0,
      indicatorDots: true,
@@ -19,6 +23,18 @@ Page({
      interval: 3000,
      duration: 1000,
      vertical: true
+  },
+
+  swiperChange: function (e) {
+    this.setData({
+      active: e.detail.current
+    })
+  },
+  swipclick: function (e) {
+    console.log(this.data.links[this.data.active]);
+    wx.navigateTo({
+      url: this.data.links[this.data.active]
+    })
   },
   hdRecorderSeriesdj:function(e){
     wx.navigateTo({
