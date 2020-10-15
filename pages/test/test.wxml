@@ -1,0 +1,21 @@
+<view class="container">
+ 
+
+  <view class="tag_maxdiv animated animated02 fadeInUpLeft" style="margin-top: 40rpx;">
+    <view class="div2"></view>
+    <view class="div2"></view>
+  </view>
+
+  <view class="tag_maxdiv animated  animated02 fadeInUpLeft" style="margin-top: 40rpx;">
+    <view class="div3"></view>
+    <view class="div3"></view>
+  </view>
+
+  
+  <view class="tag_maxdiv animated animated02 fadeInUpLeft" style="margin-top: 40rpx;">
+    <view class="div3"></view>
+    <view class="div3"></view>
+  </view>
+
+  
+</view>
