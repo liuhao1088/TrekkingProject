@@ -19,10 +19,9 @@ Page({
     ],
      active: 0,
      indicatorDots: true,
-     autoplay: true,
-     interval: 3000,
-     duration: 1000,
-     vertical: true
+     autoplay: false,
+     vertical: true,
+     circular: true
   },
 
   swiperChange: function (e) {
