@@ -49,8 +49,9 @@ Page({
   },
 
   swiperChange: function (e) {
-    console.log(e.detail.current);
+    // console.log(e.detail.current);
     var index = e.detail.current;
+    var that = this;
     this.setData({
       active: e.detail.current
       
@@ -71,20 +72,21 @@ Page({
         'imgUrl[3].height':"95%",
       })
     }else if(index == 1){
-      this.setData({
-        'imgUrl[1].marginTop': "0rpx",
-        'imgUrl[1].width':"100%",
-        'imgUrl[1].height':"100%",
-        'imgUrl[0].marginTop': "20rpx",
-        'imgUrl[0].width':"95%",
-        'imgUrl[0].height':"95%",
-        'imgUrl[2].marginTop': "20rpx",
-        'imgUrl[2].width':"95%",
-        'imgUrl[2].height':"95%",
-        'imgUrl[3].marginTop': "20rpx",
-        'imgUrl[3].width':"95%",
-        'imgUrl[3].height':"95%",
-      })
+        that.setData({
+          'imgUrl[0].marginTop': "20rpx",
+          'imgUrl[0].width':"95%",
+          'imgUrl[0].height':"95%",
+          'imgUrl[2].marginTop': "20rpx",
+          'imgUrl[2].width':"95%",
+          'imgUrl[2].height':"95%",
+          'imgUrl[3].marginTop': "20rpx",
+          'imgUrl[3].width':"95%",
+          'imgUrl[3].height':"95%",
+          'imgUrl[1].marginTop': "0rpx",
+          'imgUrl[1].width':"100%",
+          'imgUrl[1].height':"100%",     
+        })
+      
     }else if(index == 2){
       this.setData({
         'imgUrl[2].marginTop': "0rpx",
