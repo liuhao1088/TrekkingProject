@@ -7,7 +7,15 @@
   <view class="tag_maxdiv" style="position: absolute;top: {{top}};padding-bottom: 40rpx;">
 
     <view class="tag_maxdiv tag">
-      <view class="video_div"></view>
+      <view class="video_div">
+        <video style="width: 100%;height: 100%;" id="myVideo"
+        src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/F5.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1603275566;33139275566&q-key-time=1603275566;33139275566&q-header-list=&q-url-param-list=&q-signature=54dac7ea92d4e89b13b3219d9c6901578b6f669c"
+        binderror="videoErrorCallback" enable-danmu show-center-play-btn='{{false}}' 
+        show-center-play-btn="true" controls
+        picture-in-picture-mode="{{['push', 'pop']}}" bindenterpictureinpicture='bindVideoEnterPictureInPicture'
+        bindleavepictureinpicture='bindVideoLeavePictureInPicture'
+        play-btn-position="center"></video>
+      </view>
       <view class="nr_div">
         <view class="title_div">
           <view class="title">高清行车记录仪</view>
@@ -19,7 +27,15 @@
     </view>
 
     <view class="tag_maxdiv tag">
-      <view class="video_div"></view>
+      <view class="video_div">
+        <video style="width: 100%;height: 100%;" id="myVideo"
+        src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E5%BE%92%E6%AD%A5%E5%A4%A9%E4%B8%8B%E6%96%B0K1.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1603276031;33139276031&q-key-time=1603276031;33139276031&q-header-list=&q-url-param-list=&q-signature=8435ddf08288c6e7500b164f312394eaf726fa2b"
+        binderror="videoErrorCallback" enable-danmu show-center-play-btn='{{false}}' 
+        show-center-play-btn="true" controls
+        picture-in-picture-mode="{{['push', 'pop']}}" bindenterpictureinpicture='bindVideoEnterPictureInPicture'
+        bindleavepictureinpicture='bindVideoLeavePictureInPicture'
+        play-btn-position="center"></video>
+      </view>
       <view class="nr_div">
         <view class="title_div">
           <view class="title">高清USB行车记录仪</view>
@@ -31,7 +47,15 @@
     </view>
 
     <view class="tag_maxdiv tag">
-      <view class="video_div"></view>
+      <view class="video_div">
+        <video style="width: 100%;height: 100%;" id="myVideo"
+        src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/X5DV4.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1603276063;33139276063&q-key-time=1603276063;33139276063&q-header-list=&q-url-param-list=&q-signature=082cd80a0dd8081570e28ce3fad69d5579e38fd7"
+        binderror="videoErrorCallback" enable-danmu show-center-play-btn='{{false}}' 
+        show-center-play-btn="true" controls
+        picture-in-picture-mode="{{['push', 'pop']}}" bindenterpictureinpicture='bindVideoEnterPictureInPicture'
+        bindleavepictureinpicture='bindVideoLeavePictureInPicture'
+        play-btn-position="center"></video>
+      </view>
       <view class="nr_div">
         <view class="title_div">
           <view class="title">高清行车记录仪</view>
@@ -45,7 +69,15 @@
     </view>
 
     <view class="tag_maxdiv tag">
-      <view class="video_div"></view>
+      <view class="video_div">
+        <video style="width: 100%;height: 100%;" id="myVideo"
+        src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E5%BE%92%E6%AD%A5%E5%A4%A9%E4%B8%8BS11.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1603276094;33139276094&q-key-time=1603276094;33139276094&q-header-list=&q-url-param-list=&q-signature=83b5a00004e554852ef35137285220dc729bc3d1"
+        binderror="videoErrorCallback" enable-danmu show-center-play-btn='{{false}}' 
+        show-center-play-btn="true" controls
+        picture-in-picture-mode="{{['push', 'pop']}}" bindenterpictureinpicture='bindVideoEnterPictureInPicture'
+        bindleavepictureinpicture='bindVideoLeavePictureInPicture'
+        play-btn-position="center"></video>
+      </view>
       <view class="nr_div">
         <view class="title_div">
           <view class="title">隐藏式记录仪</view>
@@ -57,7 +89,15 @@
     </view>
 
     <view class="tag_maxdiv tag">
-      <view class="video_div"></view>
+      <view class="video_div">
+        <video style="width: 100%;height: 100%;" id="myVideo"
+        src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E5%BE%92%E6%AD%A5%E5%A4%A9%E4%B8%8BK6%E6%97%A0%E6%B0%B4%E5%8D%B0.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1603276124;33139276124&q-key-time=1603276124;33139276124&q-header-list=&q-url-param-list=&q-signature=e1e03324087d78e8fc7e576441a984dab1d1441c"
+        binderror="videoErrorCallback" enable-danmu show-center-play-btn='{{false}}' 
+        show-center-play-btn="true" controls
+        picture-in-picture-mode="{{['push', 'pop']}}" bindenterpictureinpicture='bindVideoEnterPictureInPicture'
+        bindleavepictureinpicture='bindVideoLeavePictureInPicture'
+        play-btn-position="center"></video>
+      </view>
       <view class="nr_div">
         <view class="title_div">
           <view class="title">高清USB行车记录仪</view>

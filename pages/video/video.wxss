@@ -15,10 +15,8 @@ image {
 }
 
 .video_div{
-  height: 400rpx;
+  height: 380rpx;
   width: 100%;
-  border-top-right-radius: 10rpx;
-  border-top-left-radius:10rpx;
   background-color: red;
   float: left;
 }
