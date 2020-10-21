@@ -1,52 +1,18 @@
-// pages/usbSeries/usbSeries.js
+// pages/detailsKtwo/detailsKtwo.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    top:"25%"
+
   },
-  detailsNewKonedj:function(e){
-    wx.navigateTo({
-      url: "../detailsNewKone/detailsNewKone"
-    })
-  },
-  detailsKtwodj:function(e){
-    wx.navigateTo({
-      url: "../detailsKtwo/detailsKtwo"
-    })
-  },
-  detailsKthreedj:function(e){
-    wx.navigateTo({
-      url: "../detailsKthree/detailsKthree"
-    })
-  },
-  detailsKfivedj:function(e){
-    wx.navigateTo({
-      url: "../detailsKfive/detailsKfive"
-    })
-  },
-  detailsKsixdj:function(e){
-    wx.navigateTo({
-      url: "../detailsKsix/detailsKsix"
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    var windowHeight = wx.getSystemInfoSync().windowHeight;
-    console.log(windowHeight);
-    if(windowHeight>800){
-      this.setData({
-        top: "20%"
-      })
-    }else{
-      this.setData({
-        top: "25%"
-      })
-    }
+
   },
 
   /**

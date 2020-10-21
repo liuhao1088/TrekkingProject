@@ -6,27 +6,27 @@
 
   <view class="tag_maxdiv" style="position: absolute;top: {{top}};padding-bottom: 40rpx;">
 
-    <view class="tag_maxdiv" style="width:100%;">
+    <view class="tag_maxdiv" style="width:100%;" bindtap="detailsNewKonedj">
       <image mode="widthFix"
           src="https://img13.360buyimg.com/ddimg/jfs/t1/136773/32/13073/176896/5f8fa888E1116a432/846e6e406cd3cfce.png" />
     </view>
 
-    <view class="tag_maxdiv tag">
+    <view class="tag_maxdiv tag" bindtap="detailsKtwodj">
       <image mode="widthFix"
           src="https://img14.360buyimg.com/ddimg/jfs/t1/134837/33/13147/167836/5f8fa89aE50513dda/c623fd98cb1ad8d3.png" />
     </view>
 
-    <view class="tag_maxdiv tag">
+    <view class="tag_maxdiv tag" bindtap="detailsKthreedj">
       <image mode="widthFix"
           src="https://img10.360buyimg.com/ddimg/jfs/t1/135643/9/13063/165483/5f8fa8aaE89ccbab2/d4cda12694ba19ad.png" />
     </view>
 
-    <view class="tag_maxdiv tag">
+    <view class="tag_maxdiv tag" bindtap="detailsKfivedj">
       <image mode="widthFix"
           src="https://img14.360buyimg.com/ddimg/jfs/t1/127808/15/15613/164642/5f8fa8bbEa8466008/92acae7bdb035f04.png" />
     </view>
 
-    <view class="tag_maxdiv tag">
+    <view class="tag_maxdiv tag" bindtap="detailsKsixdj">
       <image mode="widthFix"
           src="https://img13.360buyimg.com/ddimg/jfs/t1/149434/16/11492/157449/5f8fa8d2Ec7cdf2b6/784e9da94cd16e9e.png" />
     </view>
