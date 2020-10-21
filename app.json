@@ -1,13 +1,15 @@
 {
   "pages":[ 
-    "pages/truckSeries/truckSeries",
+    "pages/hiddenSeries/hiddenSeries",
     "pages/index/index",
+    "pages/truckSeries/truckSeries",
+   
     "pages/streamingMediaSeries/streamingMediaSeries",
     
     "pages/video/video",
     "pages/rearviewMirrorSeries/rearviewMirrorSeries",
     
-    "pages/hiddenSeries/hiddenSeries",
+    
     "pages/carMachineSeries/carMachineSeries",
     "pages/usbSeries/usbSeries",
     
@@ -31,7 +33,26 @@
     "pages/detailsXeleven/detailsXeleven",
     "pages/detailsTruckAndTen/detailsTruckAndTen",
     "pages/detailsTruckAndSeven/detailsTruckAndSeven",
+    "pages/detailsKtwentyNine/detailsKtwentyNine",
+    "pages/detailsStwenty/detailsStwenty",
+    "pages/detailsKeight/detailsKeight",
+    "pages/detailsKnine/detailsKnine",
+    "pages/detailsKten/detailsKten",
+    "pages/detailsKeleven/detailsKeleven",
+    "pages/detailsKthirty/detailsKthirty",
+    "pages/detailsSeleven/detailsSeleven",
+    "pages/detailsSthirteen/detailsSthirteen",
+    "pages/detailsSfifteen/detailsSfifteen",
+    "pages/detailsSnineteen/detailsSnineteen",
+    "pages/detailsStwentyOne/detailsStwentyOne",
+    "pages/detailsStwentyTwo/detailsStwentyTwo",
+    "pages/detailsSseventy/detailsSseventy",
+    "pages/detailsSseventeen/detailsSseventeen",
+    "pages/detailsGthreeZeroEight/detailsGthreeZeroEight",
+    "pages/detailsGfiveZeroEight/detailsGfiveZeroEight",
     
+
+
 
 
 
