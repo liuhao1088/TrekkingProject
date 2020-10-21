@@ -10,7 +10,7 @@
           src="https://img13.360buyimg.com/ddimg/jfs/t1/153616/10/2959/147119/5f8fdab0E4798f221/b03d9f7607dbfcda.png" />
     </view>
 
-    <view class="tag_maxdiv tag_width" >
+    <view class="tag_maxdiv tag_width" style="margin-top: 20rpx;">
       <image mode="widthFix"
           src="https://img10.360buyimg.com/ddimg/jfs/t1/139101/26/11495/145866/5f8fdac3E8a443d3c/9df9946140c842c6.png" />
     </view>
