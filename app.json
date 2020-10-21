@@ -1,18 +1,13 @@
 {
   "pages":[ 
-    "pages/hiddenSeries/hiddenSeries",
-    "pages/index/index",
-    "pages/truckSeries/truckSeries",
-   
-    "pages/streamingMediaSeries/streamingMediaSeries",
-    
-    "pages/video/video",
     "pages/rearviewMirrorSeries/rearviewMirrorSeries",
-    
-    
+    "pages/index/index",
+    "pages/hiddenSeries/hiddenSeries",
+    "pages/truckSeries/truckSeries",
+    "pages/streamingMediaSeries/streamingMediaSeries",
+    "pages/video/video",
     "pages/carMachineSeries/carMachineSeries",
     "pages/usbSeries/usbSeries",
-    
     "pages/detailsMoneHundredAndSixteen/detailsMoneHundredAndSixteen",
     "pages/detailsMtwoHundredThirtyTwo/detailsMtwoHundredThirtyTwo",
     "pages/detailsMGoneHundredThirtyTwo/detailsMGoneHundredThirtyTwo",
@@ -50,23 +45,17 @@
     "pages/detailsSseventeen/detailsSseventeen",
     "pages/detailsGthreeZeroEight/detailsGthreeZeroEight",
     "pages/detailsGfiveZeroEight/detailsGfiveZeroEight",
-    
-
-
-
-
-
+    "pages/detailsTSsix/detailsTSsix",
+    "pages/detailsFseven/detailsFseven",
+    "pages/detailsTSfive/detailsTSfive",
+    "pages/detailsFsix/detailsFsix",
+    "pages/detailsFtenS/detailsFtenS",
+    "pages/detailsAeleven/detailsAeleven",
+    "pages/detailsTSthree/detailsTSthree",
+    "pages/detailsFfive/detailsFfive",
+    "pages/detailsFeleven/detailsFeleven",
+    "pages/detailsFseventy/detailsFseventy",
     "pages/detailsXtwelve/detailsXtwelve"
-    
-
-
-
-
-
-
-    
-    
-    
    
   ],
   "window":{
