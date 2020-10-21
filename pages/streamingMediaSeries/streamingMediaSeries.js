@@ -7,6 +7,56 @@ Page({
   data: {
     top:"25%"
   },
+  detailsXfivedvdj:function(e){
+    wx.navigateTo({
+      url: "../detailsXfivedv/detailsXfivedv"
+    })
+  },
+  detailsXninedj:function(e){
+    wx.navigateTo({
+      url: "../detailsXnine/detailsXnine"
+    })
+  },
+  detailsXthreedj:function(e){
+    wx.navigateTo({
+      url: "../detailsXthree/detailsXthree"
+    })
+  },
+  detailsXfivedj:function(e){
+    wx.navigateTo({
+      url: "../detailsXfive/detailsXfive"
+    })
+  },
+  detailsXsixdj:function(e){
+    wx.navigateTo({
+      url: "../detailsXsix/detailsXsix"
+    })
+  },
+  detailsXfivevdj:function(e){
+    wx.navigateTo({
+      url: "../detailsXfivev/detailsXfivev"
+    })
+  },
+  detailsXfivesdj:function(e){
+    wx.navigateTo({
+      url: "../detailsXfives/detailsXfives"
+    })
+  },
+  detailsXtendj:function(e){
+    wx.navigateTo({
+      url: "../detailsXten/detailsXten"
+    })
+  },
+  detailsXelevendj:function(e){
+    wx.navigateTo({
+      url: "../detailsXeleven/detailsXeleven"
+    })
+  },
+  detailsXtwelvedj:function(e){
+    wx.navigateTo({
+      url: "../detailsXtwelve/detailsXtwelve"
+    })
+  },
 
   /**
    * 生命周期函数--监听页面加载

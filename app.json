@@ -1,5 +1,6 @@
 {
   "pages":[ 
+    "pages/streamingMediaSeries/streamingMediaSeries",
     "pages/index/index",
     "pages/video/video",
     "pages/rearviewMirrorSeries/rearviewMirrorSeries",
@@ -7,7 +8,7 @@
     "pages/hiddenSeries/hiddenSeries",
     "pages/carMachineSeries/carMachineSeries",
     "pages/usbSeries/usbSeries",
-    "pages/streamingMediaSeries/streamingMediaSeries",
+    
     "pages/detailsMoneHundredAndSixteen/detailsMoneHundredAndSixteen",
     "pages/detailsMtwoHundredThirtyTwo/detailsMtwoHundredThirtyTwo",
     "pages/detailsMGoneHundredThirtyTwo/detailsMGoneHundredThirtyTwo",
@@ -17,8 +18,23 @@
     "pages/detailsKthree/detailsKthree",
     "pages/detailsKfive/detailsKfive",
     "pages/detailsKsix/detailsKsix",
+    "pages/detailsXfivedv/detailsXfivedv",
+    "pages/detailsXnine/detailsXnine",
+    "pages/detailsXthree/detailsXthree",
+    "pages/detailsXfive/detailsXfive",
+    "pages/detailsXsix/detailsXsix",
+    "pages/detailsXfivev/detailsXfivev",
+    "pages/detailsXfives/detailsXfives",
+    "pages/detailsXten/detailsXten",
+    "pages/detailsXeleven/detailsXeleven",
+    "pages/detailsXtwelve/detailsXtwelve",
     
-    
+
+
+
+
+
+
     "pages/truckSeries/truckSeries"
     
     
