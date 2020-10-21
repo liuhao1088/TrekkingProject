@@ -1,0 +1,15 @@
+/* pages/carMachineSeries/carMachineSeries.wxss */
+page {
+  background-color: #fafafa;
+}
+
+.tag_maxdiv {
+  width: 90%;
+  float: left;
+}
+
+image {
+  height: 100%;
+  width: 100%;
+  
+}

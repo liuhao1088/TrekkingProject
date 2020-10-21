@@ -4,53 +4,64 @@
           src="https://img13.360buyimg.com/ddimg/jfs/t1/152248/10/2304/503626/5f880c74Efad85701/6a856a589170e017.png" />
   </view>
 
-  <view class="tag_maxdiv">
-      <view class="titile_div">
-        <view class="title">系列产品介绍</view>
-        <view class="logo">Product introduction</view>
+  <view class="tag_maxdiv" style="width:95%;margin-top: 20rpx;">
+
+    <view class="img_div" bindtap="carMachineSeriesdj">
+      <view class="main_div">
+        <image mode="widthFix"
+          src="https://img12.360buyimg.com/ddimg/jfs/t1/150333/11/11446/117280/5f8f9f57E32309851/d636ca5c3565159a.png" />
       </view>
+    </view>
+
+    <view class="img_div" bindtap="usbSeriesdj">
+      <view class="main_div">
+        <image mode="widthFix"
+          src="https://img13.360buyimg.com/ddimg/jfs/t1/136430/36/13162/122437/5f8fa06fE81f4d9bf/19171fe8dbf1a85f.png" />
+      </view>
+    </view>
+
+    <view class="img_div" bindtap="streamingMediaSeriesdj">
+      <view class="main_div">
+        <image mode="widthFix"
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/145304/32/11559/116760/5f8fa0e1E253fca67/787980f69e15ce1e.png" />
+      </view>
+    </view>
+
+
+    <view class="img_div" bindtap="truckSeriesdj">
+      <view class="main_div">
+        <image mode="widthFix"
+          src="https://img12.360buyimg.com/ddimg/jfs/t1/134346/36/13134/123630/5f8fa0f7E11c42942/1393fbdc3d2ed501.png" />
+      </view>
+    </view>
+
+    <view class="img_div" bindtap="hiddenSeriesdj">
+      <view class="main_div">
+        <image mode="widthFix"
+          src="https://img13.360buyimg.com/ddimg/jfs/t1/148837/16/11537/114379/5f8fa119Ed11a84a0/d2b2809fe1b1b39f.png" />
+      </view>
+    </view>
+
+    <view class="img_div" bindtap="rearviewMirrorSeriesdj">
+      <view class="main_div">
+        <image mode="widthFix"
+          src="https://img13.360buyimg.com/ddimg/jfs/t1/126292/21/15627/107783/5f8fa134Eae905056/51aef7db2208763c.png" />
+      </view>
+    </view>
   </view>
 
-
+  <view class="tag_maxdiv" style="width:90%;margin-top: 40rpx;" bindtap="videodj">
+    <image mode="widthFix"
+          src="https://img12.360buyimg.com/ddimg/jfs/t1/128368/17/15637/125059/5f8fa16dEbeb8db7c/08b0b8ed19c2d10a.png" />
+  </view>
 
   <view class="tag_maxdiv" style="width:100%;margin-top: 40rpx;">
-    <view class="lbt_div">
-      <swiper class="swiper-box"  indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" style="height:100%;" previous-margin="110rpx" next-margin="80rpx" circular="{{circular}}"  bindchange="swiperChange" >
-        <swiper-item wx:for="{{imgUrl}}" wx:key="imgUrl" >
-            <image mode="widthFix" src="{{item.url}}" class="slide-image {{swiperIndex == index ? 'active' : 'quiet'}}"  bindtap="swipclick"/>
-        </swiper-item>
-
-      </swiper>
-    </view>
-  </view>
-
-
-
-  <view class="tag_maxdiv" style="margin-top: 40rpx;">
-    <image mode="widthFix"
-          src="https://ae03.alicdn.com/kf/Hec0ff630f32e468da19fec47a61dec89C.jpg" />
-  </view>
-
-
-
-
-  <view class="tag_maxdiv" style="width: 100%;margin-top: 20rpx;">
     <view class="yxzc_div">
-      <image mode="widthFix" style="width: 100%;height: 100%;"
-        src="https://ae02.alicdn.com/kf/Hd0aa4bd1f0a846eab5254e2a61c6e295v.jpg">
-      </image>
+      <image mode="widthFix"
+          src="https://img10.360buyimg.com/ddimg/jfs/t1/123845/25/15554/33141/5f8fa2baE6b900c7a/6bc653ce06633369.png" />
     </view>
+    
   </view>
 
-
-
-
-
-
-
-
-
-
-
-
+  
 </view>

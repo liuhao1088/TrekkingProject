@@ -1,0 +1,32 @@
+/* pages/streamingMediaSeries/streamingMediaSeries.wxss */
+page {
+  background-color: #fafafa;
+}
+
+.tag_maxdiv {
+  width: 90%;
+  float: left;
+}
+
+image {
+  height: 100%;
+  width: 100%;
+
+}
+
+.submenu_div {
+  width: calc(95%/3);
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.submenu_img{
+  width: 95%;
+  
+}
+
+.tag_width{
+  width: 100%;
+}

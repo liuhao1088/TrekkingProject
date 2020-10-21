@@ -1,7 +1,19 @@
 {
   "pages":[ 
     "pages/index/index",
-    "pages/test/test"
+    "pages/video/video",
+    "pages/rearviewMirrorSeries/rearviewMirrorSeries",
+    
+    "pages/hiddenSeries/hiddenSeries",
+    "pages/carMachineSeries/carMachineSeries",
+    "pages/usbSeries/usbSeries",
+    "pages/streamingMediaSeries/streamingMediaSeries",
+    
+    
+    
+    
+    "pages/truckSeries/truckSeries"
+    
     
    
   ],

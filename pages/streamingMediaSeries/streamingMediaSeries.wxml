@@ -1,0 +1,76 @@
+<view class="container">
+  <view class="tag_maxdiv" style="width:100%;">
+    <image mode="widthFix"
+          src="https://img12.360buyimg.com/ddimg/jfs/t1/138918/23/11641/332879/5f8fa9b5Ee3256e1f/76ef6406f28f4bc9.png" />
+  </view>
+
+  <view class="tag_maxdiv" style="width:90%;position: absolute;top: {{top}};padding-bottom: 40rpx;">
+    <view class="tag_maxdiv tag_width">
+      <image mode="widthFix"
+          src="https://img12.360buyimg.com/ddimg/jfs/t1/136535/39/13101/151223/5f8fab05Ed709b0a0/1d9d96e172f5eb6a.png" />
+    </view>
+
+    <view class="tag_maxdiv tag_width" >
+      <image mode="widthFix"
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/150274/15/11616/160510/5f8fab19E83e5aaa5/f22b6729d0aef6fc.png" />
+    </view>
+
+    <view class="tag_maxdiv tag_width" style="margin-top: 20rpx;">
+      <view class="submenu_div" >
+          <image mode="widthFix"
+          src="https://img12.360buyimg.com/ddimg/jfs/t1/124332/39/15790/63885/5f8fb0a7Ef8d5b643/322a8bec038b9b6d.png" />
+      </view>
+
+      <view class="submenu_div" style="margin-left: 15rpx;">
+          <image mode="widthFix"
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/132381/22/13078/72035/5f8fb138Ee768413c/c9b462f47652eeca.png" />
+      </view>
+
+      <view class="submenu_div" style="margin-left: 15rpx;">
+          <image mode="widthFix"
+          src="https://img10.360buyimg.com/ddimg/jfs/t1/133376/12/12993/69126/5f8fb14aEdd90f9e0/220b1ea06a0088c1.png" />
+      </view>
+
+      
+     
+
+    </view>
+
+    <view class="tag_maxdiv tag_width" style="margin-top: 35rpx;">
+      <view class="submenu_div">
+          <image mode="widthFix"
+          src="https://img13.360buyimg.com/ddimg/jfs/t1/120026/34/15787/60820/5f8fb1baE1c18b028/753246d148c3b9f1.png" />
+      </view>
+
+      <view class="submenu_div" style="margin-left: 15rpx;">
+          <image mode="widthFix"
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/145336/16/11558/68650/5f8fd20dEdd1b4157/29cc29a9ee9eea35.png" />
+      </view>
+
+      <view class="submenu_div" style="margin-left: 15rpx;">
+          <image mode="widthFix"
+          src="https://img12.360buyimg.com/ddimg/jfs/t1/147028/37/11526/75585/5f8fd233Eea5a0331/fb4279af1b15fd4c.png" />
+      </view>
+
+    </view>
+
+    <view class="tag_maxdiv tag_width" style="margin-top: 35rpx;">
+      <view class="submenu_div">
+          <image mode="widthFix"
+          src="https://img11.360buyimg.com/ddimg/jfs/t1/144745/25/11525/70666/5f8fd26cE3111ade6/d80bb086396263e1.png" />
+      </view>
+
+      <view class="submenu_div" style="margin-left: 15rpx;">
+          <image mode="widthFix"
+          src="https://img10.360buyimg.com/ddimg/jfs/t1/135284/26/13209/65320/5f8fd280Ee55b2c81/a0b0d4d474ee76a7.png" />
+      </view>
+
+    </view>
+
+
+
+
+  </view>
+
+
+</view>

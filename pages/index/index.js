@@ -5,81 +5,96 @@ Page({
    * 页面的初始数据
    */
   data: {
-    imgUrl:[
-      {
-        url:'https://img14.360buyimg.com/ddimg/jfs/t1/145648/22/10851/498741/5f881e74E2709c116/8970ce38e6976c24.png',
-        width:"95%",
-        height:"95%",
-        marginTop:"20rpx"
-      },
-      {
-        url:'https://img13.360buyimg.com/ddimg/jfs/t1/124096/22/15001/541952/5f880f11Ee66cfa7c/9325e622eb5fc1ae.png',
-        width:"95%",
-        height:"95%",
-        marginTop:"20rpx"
-      },
-      {
-        url:'https://img10.360buyimg.com/ddimg/jfs/t1/147161/30/10873/458621/5f880f21Ee41da51c/aa04d76e0d9a648b.png',
-        width:"95%",
-        height:"95%",
-        marginTop:"20rpx"
-      },
-      {
-        url:'https://img14.360buyimg.com/ddimg/jfs/t1/120330/11/15225/476708/5f880f42E71bd8a98/1b49271871ae29e0.png',
-        width:"95%",
-        height:"95%",
-        marginTop:"20rpx"
-      }
+    // imgUrl:[
+    //   {
+    //     url:'https://img14.360buyimg.com/ddimg/jfs/t1/145648/22/10851/498741/5f881e74E2709c116/8970ce38e6976c24.png',
+    //     width:"95%",
+    //     height:"95%",
+    //     marginTop:"20rpx"
+    //   },
+    //   {
+    //     url:'https://img13.360buyimg.com/ddimg/jfs/t1/124096/22/15001/541952/5f880f11Ee66cfa7c/9325e622eb5fc1ae.png',
+    //     width:"95%",
+    //     height:"95%",
+    //     marginTop:"20rpx"
+    //   },
+    //   {
+    //     url:'https://img10.360buyimg.com/ddimg/jfs/t1/147161/30/10873/458621/5f880f21Ee41da51c/aa04d76e0d9a648b.png',
+    //     width:"95%",
+    //     height:"95%",
+    //     marginTop:"20rpx"
+    //   },
+    //   {
+    //     url:'https://img14.360buyimg.com/ddimg/jfs/t1/120330/11/15225/476708/5f880f42E71bd8a98/1b49271871ae29e0.png',
+    //     width:"95%",
+    //     height:"95%",
+    //     marginTop:"20rpx"
+    //   }
       
       
       
       
-    ],
-    links: [
-      '../test/test',
-      '',
-      '',
-      ''
-    ],
-    swiperIndex: 0,
-     indicatorDots: true,
-     autoplay: false,
-     vertical: true,
-     circular: true,
+    // ],
+    // links: [
+    //   '../test/test',
+    //   '',
+    //   '',
+    //   ''
+    // ],
+    // swiperIndex: 0,
+    //  indicatorDots: true,
+    //  autoplay: false,
+    //  vertical: true,
+    //  circular: true,
   },
 
-  swiperChange: function (e) {
-    // console.log(e.detail.current);
-    this.setData({
-      swiperIndex: e.detail.current
+  // swiperChange: function (e) {
+  //   // console.log(e.detail.current);
+  //   this.setData({
+  //     swiperIndex: e.detail.current
       
-    })
+  //   })
     
-  },
-  swipclick: function (e) {
-    console.log(this.data.links[this.data.swiperIndex]);
+  // },
+  // swipclick: function (e) {
+  //   console.log(this.data.links[this.data.swiperIndex]);
+  //   wx.navigateTo({
+  //     url: this.data.links[this.data.swiperIndex]
+  //   })
+  // },
+  carMachineSeriesdj:function(e){
     wx.navigateTo({
-      url: this.data.links[this.data.swiperIndex]
+      url: "../carMachineSeries/carMachineSeries"
     })
   },
-  hdRecorderSeriesdj:function(e){
+  usbSeriesdj:function(e){
     wx.navigateTo({
-      url: "../hdRecorderSeries/hdRecorderSeries"
+      url: "../usbSeries/usbSeries"
     })
   },
-  smartStreamingSeriesdj:function(e){
+  streamingMediaSeriesdj:function(e){
     wx.navigateTo({
-      url: "../smartStreamingSeries/smartStreamingSeries"
+      url: "../streamingMediaSeries/streamingMediaSeries"
     })
   },
-  hiddenRecorderSeriesdj:function(e){
+  truckSeriesdj:function(e){
     wx.navigateTo({
-      url: "../hiddenRecorderSeries/hiddenRecorderSeries"
+      url: "../truckSeries/truckSeries"
     })
   },
-  truckReconrderSeriesdj:function(e){
+  hiddenSeriesdj:function(e){
     wx.navigateTo({
-      url: "../truckReconrderSeries/truckReconrderSeries"
+      url: "../hiddenSeries/hiddenSeries"
+    })
+  },
+  rearviewMirrorSeriesdj:function(e){
+    wx.navigateTo({
+      url: "../rearviewMirrorSeries/rearviewMirrorSeries"
+    })
+  },
+  videodj:function(e){
+    wx.navigateTo({
+      url: "../video/video"
     })
   },
   /**
