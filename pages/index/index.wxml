@@ -17,7 +17,7 @@
     <view class="lbt_div">
       <swiper class="swiper-box"  indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" style="height:100%;" previous-margin="110rpx" next-margin="80rpx" circular="{{circular}}"  bindchange="swiperChange" >
         <swiper-item wx:for="{{imgUrl}}" wx:key="imgUrl" >
-            <image mode="widthFix" src="{{item.url}}" style="width: {{item.width}};height: {{item.height}}; margin-top: {{item.marginTop}};transition:1s;transition-property: height;" bindtap="swipclick"/>
+            <image mode="widthFix" src="{{item.url}}" class="slide-image {{swiperIndex == index ? 'active' : 'quiet'}}"  bindtap="swipclick"/>
         </swiper-item>
 
       </swiper>
