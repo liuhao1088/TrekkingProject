@@ -6,12 +6,12 @@
 
   <view class="tag_maxdiv" style="position: absolute;top: {{top}};padding-bottom: 40rpx;">
 
-    <view class="tag_maxdiv" style="width:100%;">
+    <view class="tag_maxdiv" style="width:100%;" bindtap="detailsTruckAndTendj">
       <image mode="widthFix"
           src="https://img14.360buyimg.com/ddimg/jfs/t1/137254/22/13311/167775/5f8fd3c5Eeb5d44ce/ca4c3aadec671513.png" />
     </view>
 
-    <view class="tag_maxdiv tag">
+    <view class="tag_maxdiv tag" bindtap="detailsTruckAndSevendj">
       <image mode="widthFix"
           src="https://img12.360buyimg.com/ddimg/jfs/t1/154277/6/3034/173289/5f8fd3d4Ec939224d/0e8f6c686438c6b8.png" />
     </view>

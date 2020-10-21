@@ -1,7 +1,9 @@
 {
   "pages":[ 
-    "pages/streamingMediaSeries/streamingMediaSeries",
+    "pages/truckSeries/truckSeries",
     "pages/index/index",
+    "pages/streamingMediaSeries/streamingMediaSeries",
+    
     "pages/video/video",
     "pages/rearviewMirrorSeries/rearviewMirrorSeries",
     
@@ -27,7 +29,13 @@
     "pages/detailsXfives/detailsXfives",
     "pages/detailsXten/detailsXten",
     "pages/detailsXeleven/detailsXeleven",
-    "pages/detailsXtwelve/detailsXtwelve",
+    "pages/detailsTruckAndTen/detailsTruckAndTen",
+    "pages/detailsTruckAndSeven/detailsTruckAndSeven",
+    
+
+
+
+    "pages/detailsXtwelve/detailsXtwelve"
     
 
 
@@ -35,7 +43,7 @@
 
 
 
-    "pages/truckSeries/truckSeries"
+    
     
     
    
