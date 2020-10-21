@@ -6,22 +6,22 @@
 
   <view class="tag_maxdiv" style="position: absolute;top: {{top}};padding-bottom: 40rpx;">
 
-    <view class="tag_maxdiv" style="width:100%;">
+    <view class="tag_maxdiv" style="width:100%;" bindtap="detailsMoneHundredAndSixteendj">
       <image mode="widthFix"
           src="https://img10.360buyimg.com/ddimg/jfs/t1/142061/31/11471/154202/5f8fa5d5E83caf9b3/2fcc907114ed0ea0.png" />
     </view>
 
-    <view class="tag_maxdiv tag">
+    <view class="tag_maxdiv tag" bindtap="detailsMtwoHundredThirtyTwodj">
       <image mode="widthFix"
           src="https://img14.360buyimg.com/ddimg/jfs/t1/154635/8/2890/164039/5f8fa62eE57c30c92/14aa230ffe2fab07.png" />
     </view>
 
-    <view class="tag_maxdiv tag">
+    <view class="tag_maxdiv tag" bindtap="detailsMGoneHundredThirtyTwodj">
       <image mode="widthFix"
           src="https://img10.360buyimg.com/ddimg/jfs/t1/129974/28/12999/155882/5f8fa649E04db4866/86232de38ec2e0aa.png" />
     </view>
 
-    <view class="tag_maxdiv tag">
+    <view class="tag_maxdiv tag" bindtap="detailsMGtwoHundredThirtyTwodj">
       <image mode="widthFix"
           src="https://img10.360buyimg.com/ddimg/jfs/t1/131541/23/13036/164996/5f8fa65dE3899138c/aaa70369ad79b4e7.png" />
     </view>

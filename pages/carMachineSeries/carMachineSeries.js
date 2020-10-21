@@ -7,6 +7,26 @@ Page({
   data: {
     top:"25%"
   },
+  detailsMoneHundredAndSixteendj:function(e){
+    wx.navigateTo({
+      url: "../detailsMoneHundredAndSixteen/detailsMoneHundredAndSixteen"
+    })
+  },
+  detailsMtwoHundredThirtyTwodj:function(e){
+    wx.navigateTo({
+      url: "../detailsMtwoHundredThirtyTwo/detailsMtwoHundredThirtyTwo"
+    })
+  },
+  detailsMGoneHundredThirtyTwodj:function(e){
+    wx.navigateTo({
+      url: "../detailsMGoneHundredThirtyTwo/detailsMGoneHundredThirtyTwo"
+    })
+  },
+  detailsMGtwoHundredThirtyTwodj:function(e){
+    wx.navigateTo({
+      url: "../detailsMGtwoHundredThirtyTwo/detailsMGtwoHundredThirtyTwo"
+    })
+  },
 
   /**
    * 生命周期函数--监听页面加载

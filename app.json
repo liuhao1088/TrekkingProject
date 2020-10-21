@@ -8,8 +8,10 @@
     "pages/carMachineSeries/carMachineSeries",
     "pages/usbSeries/usbSeries",
     "pages/streamingMediaSeries/streamingMediaSeries",
-    
-    
+    "pages/detailsMoneHundredAndSixteen/detailsMoneHundredAndSixteen",
+    "pages/detailsMtwoHundredThirtyTwo/detailsMtwoHundredThirtyTwo",
+    "pages/detailsMGoneHundredThirtyTwo/detailsMGoneHundredThirtyTwo",
+    "pages/detailsMGtwoHundredThirtyTwo/detailsMGtwoHundredThirtyTwo",
     
     
     "pages/truckSeries/truckSeries"
