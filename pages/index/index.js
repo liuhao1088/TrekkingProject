@@ -5,6 +5,10 @@ Page({
    * 页面的初始数据
    */
   data: {
+    height:'',
+    bottom:'0rpx',
+    position:'none',
+    marginTop:'40rpx'
     // imgUrl:[
     //   {
     //     url:'https://img14.360buyimg.com/ddimg/jfs/t1/145648/22/10851/498741/5f881e74E2709c116/8970ce38e6976c24.png',
@@ -102,7 +106,22 @@ Page({
    */
   onLoad: function (options) {
 
-
+    var windowHeight = wx.getSystemInfoSync().windowHeight;
+    var maxHeight  = windowHeight;
+    console.log(maxHeight);
+    if(windowHeight>800){
+      this.setData({
+        height:maxHeight+"px",
+        position:'fixed',
+        marginTop:'80rpx'
+      })
+    }else{
+      this.setData({
+        height:maxHeight+"px",
+        position:'none',
+        marginTop:'40rpx'
+      })
+    }
   },
 
   /**
