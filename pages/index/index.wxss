@@ -1,11 +1,12 @@
 page {
   height: 100%;
-   background-color: #0f0f19;
+   background-color: #0f0f18;
 }
 
 .tag_maxdiv {
   width: 90%;
   float: left;
+  
 }
 
 image {
@@ -35,11 +36,12 @@ image {
   float: left;
 }
 
-.img {
+/* .img {
   width: 100%;
-  background: url('https://img11.360buyimg.com/ddimg/jfs/t1/143251/17/11712/213131/5f912c9cE042b06a8/6a28f2fb13812591.jpg') no-repeat;
+  height: 100%;
+  background: url('') no-repeat;
   background-size: 100% 100%;
   -moz-background-size: 100% 100%;
   border: 0rpx solid red;
   float: left;
-}
+} */

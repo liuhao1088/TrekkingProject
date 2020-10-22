@@ -4,11 +4,11 @@
 
       <view class="tag_maxdiv" style="width:100%;">
         <image mode="widthFix"
-          src="https://img13.360buyimg.com/ddimg/jfs/t1/152248/10/2304/503626/5f880c74Efad85701/6a856a589170e017.png" />
+                  src="https://img13.360buyimg.com/ddimg/jfs/t1/138287/35/11850/551746/5f913b24E1840c4b7/272d9da78dedb540.png" />
       </view>
 
       <view class="tag_maxdiv" style="width:100%;display:flex;justify-content:center;align-items:center;">
-        <view class="tag_maxdiv" style="width:95%;margin-top: 20rpx;">
+        <view class="tag_maxdiv" style="width:95%;">
           <view class="tag_maxdiv" style="width:100%;">
             <view class="img_div" bindtap="carMachineSeriesdj">
               <view class="main_div">
@@ -30,7 +30,7 @@
             <view class="img_div" bindtap="streamingMediaSeriesdj">
               <view class="main_div">
                 <image mode="widthFix"
-                  src="https://img14.360buyimg.com/ddimg/jfs/t1/145304/32/11559/116760/5f8fa0e1E253fca67/787980f69e15ce1e.png" />
+                  src="https://img12.360buyimg.com/ddimg/jfs/t1/152698/33/3118/115584/5f910422E66cfb21d/cbc4269d73664d8d.png" />
               </view>
             </view>
 
@@ -48,14 +48,14 @@
             <view class="img_div" bindtap="hiddenSeriesdj">
               <view class="main_div">
                 <image mode="widthFix"
-                  src="https://img10.360buyimg.com/ddimg/jfs/t1/126226/34/15655/112413/5f91232eE6a7d744d/762dc64020441ccb.png" />
+                  src="https://img13.360buyimg.com/ddimg/jfs/t1/149937/12/11626/112826/5f91377aE172a05fe/a57db48bbf34383b.png" />
               </view>
             </view>
 
             <view class="img_div" bindtap="rearviewMirrorSeriesdj">
               <view class="main_div">
                 <image mode="widthFix"
-                  src="https://img13.360buyimg.com/ddimg/jfs/t1/137906/12/11457/106185/5f9123acEbd693314/4ce095fde49ea89f.png" />
+                  src="https://img13.360buyimg.com/ddimg/jfs/t1/119764/34/19752/106308/5f913795E67758680/ccb26819ba62185a.png" />
               </view>
             </view>
           </view>
@@ -64,15 +64,15 @@
 
       </view>
 
-      <view class="tag_maxdiv" style="width:100%;margin-top: {{marginTop}};display:flex;justify-content:center;align-items:center;">
+      <view class="tag_maxdiv" style="width:100%;margin-top:40rpx;display:flex;justify-content:center;align-items:center;">
         <view class="tag_maxdiv" style="width:90%;" bindtap="videodj">
           <image mode="widthFix"
-            src="https://img12.360buyimg.com/ddimg/jfs/t1/128368/17/15637/125059/5f8fa16dEbeb8db7c/08b0b8ed19c2d10a.png" />
+            src="https://img10.360buyimg.com/ddimg/jfs/t1/138027/27/11706/125223/5f913e1cEcc27585f/b8085118fb4af1da.png" />
         </view>
 
       </view>
 
-      <view class="tag_maxdiv" style="width:100%;margin-top: 40rpx;position: {{position}};bottom: {{bottom}};">
+      <view class="tag_maxdiv" style="width:100%;margin-top: 40rpx;">
         <view class="yxzc_div">
           <image mode="widthFix"
             src="https://img10.360buyimg.com/ddimg/jfs/t1/123845/25/15554/33141/5f8fa2baE6b900c7a/6bc653ce06633369.png" />
