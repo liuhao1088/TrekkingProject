@@ -1,13 +1,17 @@
 {
   "pages":[ 
     "pages/index/index",
+    "pages/usbSeries/usbSeries",
+    
+    "pages/carMachineSeries/carMachineSeries",
+   
     "pages/video/video",
     "pages/rearviewMirrorSeries/rearviewMirrorSeries",
     "pages/hiddenSeries/hiddenSeries",
     "pages/truckSeries/truckSeries",
     "pages/streamingMediaSeries/streamingMediaSeries",
-    "pages/carMachineSeries/carMachineSeries",
-    "pages/usbSeries/usbSeries",
+    
+   
     "pages/detailsMoneHundredAndSixteen/detailsMoneHundredAndSixteen",
     "pages/detailsMtwoHundredThirtyTwo/detailsMtwoHundredThirtyTwo",
     "pages/detailsMGoneHundredThirtyTwo/detailsMGoneHundredThirtyTwo",

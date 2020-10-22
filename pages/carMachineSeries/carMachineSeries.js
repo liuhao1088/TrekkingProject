@@ -5,7 +5,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-    top:"25%"
+    top:"40%"
   },
   detailsMoneHundredAndSixteendj:function(e){
     wx.navigateTo({
@@ -36,11 +36,11 @@ Page({
     console.log(windowHeight);
     if(windowHeight>800){
       this.setData({
-        top: "20%"
+        top: "33%"
       })
     }else{
       this.setData({
-        top: "25%"
+        top: "40%"
       })
     }
   },

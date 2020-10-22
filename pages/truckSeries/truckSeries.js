@@ -5,7 +5,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-    top:"60%"
+    top:"70%"
   },
   detailsTruckAndTendj:function(e){
     wx.navigateTo({
@@ -26,11 +26,11 @@ Page({
     console.log(windowHeight);
     if(windowHeight>800){
       this.setData({
-        top: "50%"
+        top: "60%"
       })
     }else{
       this.setData({
-        top: "60%"
+        top: "70%"
       })
     }
   },

@@ -1,67 +1,75 @@
 <view class="container">
   <view class="tag_maxdiv" style="width:100%;">
     <image mode="widthFix"
-          src="https://img13.360buyimg.com/ddimg/jfs/t1/152248/10/2304/503626/5f880c74Efad85701/6a856a589170e017.png" />
+      src="https://img13.360buyimg.com/ddimg/jfs/t1/152248/10/2304/503626/5f880c74Efad85701/6a856a589170e017.png" />
   </view>
 
   <view class="tag_maxdiv" style="width:95%;margin-top: 20rpx;">
-
-    <view class="img_div" bindtap="carMachineSeriesdj">
-      <view class="main_div">
-        <image mode="widthFix"
-          src="https://img12.360buyimg.com/ddimg/jfs/t1/150333/11/11446/117280/5f8f9f57E32309851/d636ca5c3565159a.png" />
+    <view class="tag_maxdiv" style="width:100%;">
+      <view class="img_div" bindtap="carMachineSeriesdj">
+        <view class="main_div">
+          <image mode="widthFix"
+            src="https://img12.360buyimg.com/ddimg/jfs/t1/127033/2/15951/115526/5f9103f2E393be0cb/292056af2edae1c1.png" />
+        </view>
       </view>
-    </view>
 
-    <view class="img_div" bindtap="usbSeriesdj">
-      <view class="main_div">
-        <image mode="widthFix"
-          src="https://img13.360buyimg.com/ddimg/jfs/t1/136430/36/13162/122437/5f8fa06fE81f4d9bf/19171fe8dbf1a85f.png" />
-      </view>
-    </view>
-
-    <view class="img_div" bindtap="streamingMediaSeriesdj">
-      <view class="main_div">
-        <image mode="widthFix"
-          src="https://img14.360buyimg.com/ddimg/jfs/t1/145304/32/11559/116760/5f8fa0e1E253fca67/787980f69e15ce1e.png" />
+      <view class="img_div" bindtap="usbSeriesdj">
+        <view class="main_div">
+          <image mode="widthFix"
+            src="https://img12.360buyimg.com/ddimg/jfs/t1/134379/38/13044/120824/5f910402Ec31be305/a76e928676369880.png" />
+        </view>
       </view>
     </view>
 
 
-    <view class="img_div" bindtap="truckSeriesdj">
-      <view class="main_div">
-        <image mode="widthFix"
-          src="https://img12.360buyimg.com/ddimg/jfs/t1/134346/36/13134/123630/5f8fa0f7E11c42942/1393fbdc3d2ed501.png" />
+    <view class="tag_maxdiv" style="width:100%;">
+      <view class="img_div" bindtap="streamingMediaSeriesdj">
+        <view class="main_div">
+          <image mode="widthFix"
+            src="https://img14.360buyimg.com/ddimg/jfs/t1/145304/32/11559/116760/5f8fa0e1E253fca67/787980f69e15ce1e.png" />
+        </view>
+      </view>
+
+
+      <view class="img_div" bindtap="truckSeriesdj">
+        <view class="main_div">
+          <image mode="widthFix"
+            src="https://img12.360buyimg.com/ddimg/jfs/t1/122509/33/15783/121824/5f910432E46a6b204/121bb30f9049f806.png" />
+        </view>
       </view>
     </view>
 
-    <view class="img_div" bindtap="hiddenSeriesdj">
-      <view class="main_div">
-        <image mode="widthFix"
-          src="https://img13.360buyimg.com/ddimg/jfs/t1/148837/16/11537/114379/5f8fa119Ed11a84a0/d2b2809fe1b1b39f.png" />
+
+    <view class="tag_maxdiv" style="width:100%;">
+      <view class="img_div" bindtap="hiddenSeriesdj">
+        <view class="main_div">
+          <image mode="widthFix"
+            src="https://img10.360buyimg.com/ddimg/jfs/t1/126226/34/15655/112413/5f91232eE6a7d744d/762dc64020441ccb.png" />
+        </view>
+      </view>
+
+      <view class="img_div" bindtap="rearviewMirrorSeriesdj">
+        <view class="main_div">
+          <image mode="widthFix"
+            src="https://img13.360buyimg.com/ddimg/jfs/t1/137906/12/11457/106185/5f9123acEbd693314/4ce095fde49ea89f.png" />
+        </view>
       </view>
     </view>
 
-    <view class="img_div" bindtap="rearviewMirrorSeriesdj">
-      <view class="main_div">
-        <image mode="widthFix"
-          src="https://img13.360buyimg.com/ddimg/jfs/t1/126292/21/15627/107783/5f8fa134Eae905056/51aef7db2208763c.png" />
-      </view>
-    </view>
   </view>
 
   <view class="tag_maxdiv" style="width:90%;margin-top: 40rpx;" bindtap="videodj">
     <image mode="widthFix"
-          src="https://img12.360buyimg.com/ddimg/jfs/t1/128368/17/15637/125059/5f8fa16dEbeb8db7c/08b0b8ed19c2d10a.png" />
+      src="https://img12.360buyimg.com/ddimg/jfs/t1/128368/17/15637/125059/5f8fa16dEbeb8db7c/08b0b8ed19c2d10a.png" />
   </view>
 
   <view class="tag_maxdiv" style="width:100%;margin-top: 40rpx;">
     <view class="yxzc_div">
       <image mode="widthFix"
-          src="https://img10.360buyimg.com/ddimg/jfs/t1/123845/25/15554/33141/5f8fa2baE6b900c7a/6bc653ce06633369.png" />
+        src="https://img10.360buyimg.com/ddimg/jfs/t1/123845/25/15554/33141/5f8fa2baE6b900c7a/6bc653ce06633369.png" />
     </view>
-    
+
   </view>
 
-  
+
 </view>
