@@ -12,7 +12,7 @@
 
     <view class="tag_maxdiv tag_width" style="margin-top: 20rpx;" bindtap="detailsXninedj">
       <image mode="widthFix"
-          src="https://img14.360buyimg.com/ddimg/jfs/t1/150274/15/11616/160510/5f8fab19E83e5aaa5/f22b6729d0aef6fc.png" />
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/122169/38/15898/160567/5f90f316E30ac880c/41cce5851c72535c.png" />
     </view>
 
     <view class="tag_maxdiv tag_width" style="margin-top: 20rpx;"  >
@@ -23,7 +23,7 @@
 
       <view class="submenu_div" style="margin-left: 15rpx;" bindtap="detailsXfivedj">
           <image mode="widthFix"
-          src="https://img14.360buyimg.com/ddimg/jfs/t1/132381/22/13078/72035/5f8fb138Ee768413c/c9b462f47652eeca.png" />
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/132824/16/13109/72086/5f90f304E951a2ff4/239946bdef77ee98.png" />
       </view>
 
       <view class="submenu_div" style="margin-left: 15rpx;" bindtap="detailsXsixdj">
@@ -44,12 +44,12 @@
 
       <view class="submenu_div" style="margin-left: 15rpx;" bindtap="detailsXfivesdj">
           <image mode="widthFix"
-          src="https://img14.360buyimg.com/ddimg/jfs/t1/145336/16/11558/68650/5f8fd20dEdd1b4157/29cc29a9ee9eea35.png" />
+          src="https://img12.360buyimg.com/ddimg/jfs/t1/121034/17/15895/68567/5f90f346E3eedb3c5/783052bec84ccfa7.png" />
       </view>
 
       <view class="submenu_div" style="margin-left: 15rpx;" bindtap="detailsXtendj">
           <image mode="widthFix"
-          src="https://img12.360buyimg.com/ddimg/jfs/t1/147028/37/11526/75585/5f8fd233Eea5a0331/fb4279af1b15fd4c.png" />
+          src="https://img12.360buyimg.com/ddimg/jfs/t1/119726/8/19857/75512/5f90f35dE43b0ed74/b39fcc9ef0b11afb.png" />
       </view>
 
     </view>
