@@ -12,8 +12,9 @@ page {
 .tag_styel {
   width: 100%;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
+  
 }
 
 image {
@@ -21,20 +22,39 @@ image {
   width: 100%;
 }
 
+.tag_div{
+  /* height: 100rpx; */
+  width: 30%;
+  border: 0rpx solid red;
+  float: left;
+  margin-left: 20rpx;
+}
+
 .title{
-  height: 80rpx;
-  line-height: 80rpx;
+  /* height: 80rpx; */
+  width: 100%;
+  /* line-height: 50rpx; */
   font-weight: 700;
-  font-size: 36rpx;
+  font-size: 30rpx;
+  color: #fff;
+  float: left;
+  
+}
+
+.yw_div{
+  width: 100%;
+  height: 20rpx;
+  font-size: 10rpx;
   color: #fff;
   float: left;
 }
 
 .iocn{
-  width: 50rpx;
-  height: 50rpx;
+  width: 40rpx;
+  height: 40rpx;
   float: right;
-  margin-top: 25rpx;
+  margin-top: 10rpx;
+  margin-right: 20rpx;
 }
 
 .yxzc_div {

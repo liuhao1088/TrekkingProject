@@ -1,77 +1,84 @@
 <view class="container">
-  <view class="tag_maxdiv" style="width:100%;">
+  <view class="tag_maxdiv tag_styel" style="width:100%;">
 
     <view class="tag_maxdiv" style="width:100%;">
       <image mode="widthFix"
-        src="https://img14.360buyimg.com/ddimg/jfs/t1/155055/40/3356/316212/5f92b7b6E71365d73/3f2bec42787a447b.png" />
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/131283/3/13577/291927/5f963402E064d8e63/91f237d78a9846e6.png" />
     </view>
 
-    <view class="tag_maxdiv tag_styel" style="height: 80rpx;margin-top: 40rpx;">
-      <view class="tag_maxdiv" style="width:80%;">
-        <view class="title">产品矩阵展示</view>
+    <view class="tag_maxdiv" style="height: 80rpx;margin-top: 40rpx;">
+      <view class="tag_maxdiv" style="width:100%;">
+        <view class="tag_div">
+          <view class="title">产品矩阵展示</view>
+          <view class="yw_div">Product presentation</view>
+        </view>
+
         <view class="iocn">
           <image mode="widthFix"
-        src="https://img13.360buyimg.com/ddimg/jfs/t1/148702/26/11916/584/5f92be4cE6398f050/6887a2cc29e3bc7f.png" />
+            src="https://img13.360buyimg.com/ddimg/jfs/t1/148702/26/11916/584/5f92be4cE6398f050/6887a2cc29e3bc7f.png" />
         </view>
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel" style="margin-top: 20rpx;" bindtap="streamingMediaSeriesdj">
-      <view class="tag_maxdiv" style="width:90%;">
-          <image mode="widthFix"
-        src="https://img13.360buyimg.com/ddimg/jfs/t1/137547/28/13640/93321/5f92bf5dE7e19c29a/c44a1072cb3931a5.png" />
+
+    <view class="tag_maxdiv" style="margin-top: 40rpx;" bindtap="streamingMediaSeriesdj">
+      <view class="tag_maxdiv" style="width:100%;">
+        <image mode="widthFix"
+          src="https://img10.360buyimg.com/ddimg/jfs/t1/125029/28/16116/71008/5f964045E75c82a79/fd5dbca48a3bf377.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel" bindtap="rearviewMirrorSeriesdj">
-      <view class="tag_maxdiv" style="width:90%;">
-          <image mode="widthFix"
-        src="https://img12.360buyimg.com/ddimg/jfs/t1/137462/18/13430/87617/5f92c05eE422defb6/b5e227c8b985a3b3.png" />
+    <view class="tag_maxdiv" style="margin-top: 20rpx;" bindtap="rearviewMirrorSeriesdj">
+      <view class="tag_maxdiv" style="width:100%;">
+        <image mode="widthFix"
+          src="https://img13.360buyimg.com/ddimg/jfs/t1/147292/14/12144/65110/5f96406eE3bf3acab/15665aeb7eb433d9.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel" bindtap="hiddenSeriesdj">
-      <view class="tag_maxdiv" style="width:90%;">
-          <image mode="widthFix"
-        src="https://img12.360buyimg.com/ddimg/jfs/t1/135269/15/13338/86778/5f92c12dE12f4fb8a/7c907107a0fb768f.png" />
+    <view class="tag_maxdiv " style="margin-top: 20rpx;" bindtap="hiddenSeriesdj">
+      <view class="tag_maxdiv" style="width:100%;">
+        <image mode="widthFix"
+          src="https://img10.360buyimg.com/ddimg/jfs/t1/126450/15/16034/65750/5f9640d7E2e7beb82/c75dcc30e31bf790.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel" bindtap="carMachineSeriesdj">
-      <view class="tag_maxdiv" style="width:90%;">
-          <image mode="widthFix"
-        src="https://img13.360buyimg.com/ddimg/jfs/t1/144209/2/11592/92882/5f92c179E2b02cba4/07c39c02ee85509f.png" />
+    <view class="tag_maxdiv " style="margin-top: 20rpx;" bindtap="carMachineSeriesdj">
+      <view class="tag_maxdiv" style="width:100%;">
+        <image mode="widthFix"
+          src="https://img12.360buyimg.com/ddimg/jfs/t1/152220/33/3555/72256/5f9640e7Efabd435e/b718a8e8e980e335.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel" bindtap="usbSeriesdj">
-      <view class="tag_maxdiv" style="width:90%;">
-          <image mode="widthFix"
-        src="https://img13.360buyimg.com/ddimg/jfs/t1/154520/38/3263/95473/5f92c18fE490de147/1e169214fceb36a2.png" />
+    <view class="tag_maxdiv " style="margin-top: 20rpx;" bindtap="usbSeriesdj">
+      <view class="tag_maxdiv" style="width:100%;">
+        <image mode="widthFix"
+          src="https://img10.360buyimg.com/ddimg/jfs/t1/149132/5/11898/74210/5f9640fbEc2650f3d/82741d68f6ad22e4.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel" bindtap="truckSeriesdj">
-      <view class="tag_maxdiv" style="width:90%;">
-          <image mode="widthFix"
-        src=" https://img13.360buyimg.com/ddimg/jfs/t1/150313/39/12014/100473/5f92c1b2E96a8aaaf/76d6975a763fef65.png" />
+    <view class="tag_maxdiv " style="margin-top: 20rpx;" bindtap="truckSeriesdj">
+      <view class="tag_maxdiv" style="width:100%;">
+        <image mode="widthFix"
+          src="https://img10.360buyimg.com/ddimg/jfs/t1/125100/28/16307/78900/5f96415bEf51b61e0/571796be1a677e30.png" />
       </view>
     </view>
-   
-    <view class="tag_maxdiv tag_styel" bindtap="videodj">
-      <view class="tag_maxdiv" style="width:83%;">
-          <image mode="widthFix"
-        src=" https://img12.360buyimg.com/ddimg/jfs/t1/138871/31/11922/145629/5f92c1e2Ed5b1290f/43b0f3500f70af8b.png" />
+
+    <view class="tag_maxdiv " style="margin-top: 20rpx;" bindtap="videodj">
+      <view class="tag_maxdiv" style="width:100%;">
+        <image mode="widthFix"
+          src="https://img10.360buyimg.com/ddimg/jfs/t1/143816/26/12082/87808/5f964170E438d6ca7/fb2a966c00d0d2a7.png" />
       </view>
+    </view>
+
+    <view class="tag_maxdiv" style="width:100%;margin-top: 40rpx;">
+      <view class="yxzc_div">
+        <image mode="widthFix"
+          src="https://img10.360buyimg.com/ddimg/jfs/t1/123845/25/15554/33141/5f8fa2baE6b900c7a/6bc653ce06633369.png" />
+      </view>
+
     </view>
 
   </view>
 
-  <view class="tag_maxdiv" style="width:100%;margin-top: 40rpx;">
-    <view class="yxzc_div">
-      <image mode="widthFix"
-        src="https://img10.360buyimg.com/ddimg/jfs/t1/123845/25/15554/33141/5f8fa2baE6b900c7a/6bc653ce06633369.png" />
-    </view>
 
-  </view>
 </view>
