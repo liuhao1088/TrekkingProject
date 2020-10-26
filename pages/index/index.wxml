@@ -16,49 +16,49 @@
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel" style="margin-top: 20rpx;">
+    <view class="tag_maxdiv tag_styel" style="margin-top: 20rpx;" bindtap="streamingMediaSeriesdj">
       <view class="tag_maxdiv" style="width:90%;">
           <image mode="widthFix"
         src="https://img13.360buyimg.com/ddimg/jfs/t1/137547/28/13640/93321/5f92bf5dE7e19c29a/c44a1072cb3931a5.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel">
+    <view class="tag_maxdiv tag_styel" bindtap="rearviewMirrorSeriesdj">
       <view class="tag_maxdiv" style="width:90%;">
           <image mode="widthFix"
         src="https://img12.360buyimg.com/ddimg/jfs/t1/137462/18/13430/87617/5f92c05eE422defb6/b5e227c8b985a3b3.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel">
+    <view class="tag_maxdiv tag_styel" bindtap="hiddenSeriesdj">
       <view class="tag_maxdiv" style="width:90%;">
           <image mode="widthFix"
         src="https://img12.360buyimg.com/ddimg/jfs/t1/135269/15/13338/86778/5f92c12dE12f4fb8a/7c907107a0fb768f.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel">
+    <view class="tag_maxdiv tag_styel" bindtap="carMachineSeriesdj">
       <view class="tag_maxdiv" style="width:90%;">
           <image mode="widthFix"
         src="https://img13.360buyimg.com/ddimg/jfs/t1/144209/2/11592/92882/5f92c179E2b02cba4/07c39c02ee85509f.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel">
+    <view class="tag_maxdiv tag_styel" bindtap="usbSeriesdj">
       <view class="tag_maxdiv" style="width:90%;">
           <image mode="widthFix"
         src="https://img13.360buyimg.com/ddimg/jfs/t1/154520/38/3263/95473/5f92c18fE490de147/1e169214fceb36a2.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag_styel">
+    <view class="tag_maxdiv tag_styel" bindtap="truckSeriesdj">
       <view class="tag_maxdiv" style="width:90%;">
           <image mode="widthFix"
         src=" https://img13.360buyimg.com/ddimg/jfs/t1/150313/39/12014/100473/5f92c1b2E96a8aaaf/76d6975a763fef65.png" />
       </view>
     </view>
    
-    <view class="tag_maxdiv tag_styel">
+    <view class="tag_maxdiv tag_styel" bindtap="videodj">
       <view class="tag_maxdiv" style="width:83%;">
           <image mode="widthFix"
         src=" https://img12.360buyimg.com/ddimg/jfs/t1/138871/31/11922/145629/5f92c1e2Ed5b1290f/43b0f3500f70af8b.png" />
