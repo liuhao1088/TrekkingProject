@@ -17,13 +17,13 @@ page {
 }
 
 .tag {
-  margin-top: 20rpx;
+  /* margin-top: 20rpx; */
   width: 100%;
 }
 
 .maxdiv{
   width: 100%;
-  height: 270rpx;
+  height: 280rpx;
   border: 0rpx solid red;
   float: left;
 }
@@ -69,8 +69,8 @@ image {
 }
 
 .ckgd{
-  height: 100rpx;
-  width: 100rpx;
+  height: 100%;
+  width: 150rpx;
   float: right;
   margin-top: 10rpx;
   margin-right: 10rpx;
@@ -84,7 +84,7 @@ image {
 }
 
 .video_div{
-  height: 500rpx;
+  height: 380rpx;
   width: 100%;
   /* background-color: red; */
   float: left;

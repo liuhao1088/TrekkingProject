@@ -6,7 +6,7 @@
 
   <view class="tag_maxdiv tag_styel" style="width:100%;position: absolute;top: {{top}};">
 
-    <view class="tag_maxdiv" style="height: 80rpx;">
+    <view class="tag_maxdiv" style="height: 60rpx;">
       <view class="tag_maxdiv" style="width:100%;">
         <view class="tag_div">
           <view class="title">产品矩阵展示</view>
@@ -49,7 +49,7 @@
       </view>
     </view>
 
-    <view class="tag_maxdiv" style="height: 80rpx;margin-top: 40rpx;">
+    <view class="tag_maxdiv" style="height: 60rpx;margin-top: 40rpx;">
       <view class="tag_maxdiv" style="width:100%;">
         <view class="tag_div">
           <view class="title">产品视频专区</view>
@@ -63,7 +63,7 @@
       </view>
     </view>
 
-    <view class="tag_maxdiv" style="height: 80rpx;margin-top: 40rpx;">
+    <view class="tag_maxdiv" style="height: 80rpx;margin-top: 20rpx;">
       <view class="tag_maxdiv" style="width:100%;">
         <view class="video_div">
           <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
