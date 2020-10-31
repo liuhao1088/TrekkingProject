@@ -1,5 +1,0 @@
-/* pages/detailsKfive/detailsKfive.wxss */
-image {
-  width: 100%;
-  height: 100%;
-}
