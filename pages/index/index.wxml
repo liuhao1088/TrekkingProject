@@ -1,7 +1,7 @@
 <view class="container">
   <view class="tag_maxdiv" style="width:100%;">
     <image mode="widthFix"
-      src="https://img13.360buyimg.com/ddimg/jfs/t1/136634/7/14052/311154/5f9d289dEa11fc2b8/56a88e1e9bfd516f.jpg" />
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/133086/10/14413/121818/5f9d30d8Ea504ef02/4951fbc8800329e3.jpg" />
   </view>
 
   <view class="tag_maxdiv tag_styel" style="width:100%;position: absolute;top: {{top}};">
@@ -78,7 +78,7 @@
    
   </view>
 
-  <view class="tag_maxdiv" style="width: 100%;margin-top: -120rpx;">
+  <view class="tag_maxdiv" style="width: 100%;">
       <view class="yxzc_div">
         <image mode="widthFix"
           src="https://img11.360buyimg.com/ddimg/jfs/t1/122822/19/16818/26516/5f9cff42Edc27ae6e/8effc0c64e2f09c2.png">
