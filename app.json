@@ -6,21 +6,28 @@
     "pages/rearviewMirrorSeries/rearviewMirrorSeries",
     "pages/hiddenSeries/hiddenSeries",
     "pages/streamingMediaSeries/streamingMediaSeries",
+
+
+    "pages/detailsNewKone/detailsNewKone",
+    "pages/detailsKtwo/detailsKtwo",
+    "pages/detailsKfive/detailsKfive",
     "pages/detailsXfivedv/detailsXfivedv",
     "pages/detailsXthree/detailsXthree",
-    "pages/detailsXfives/detailsXfives",
+    "pages/detailsXsix/detailsXsix",
+    "pages/detailsXten/detailsXten",
     "pages/detailsXeleven/detailsXeleven",
-    "pages/detailsTSsix/detailsTSsix",
-    "pages/detailsFseven/detailsFseven",
-    "pages/detailsAeleven/detailsAeleven",
     "pages/detailsKtwentyNine/detailsKtwentyNine",
     "pages/detailsKten/detailsKten",
-    "pages/detailsGthreeZeroEight/detailsGthreeZeroEight",
+    "pages/detailsKeleven/detailsKeleven",
+    "pages/detailsSeleven/detailsSeleven",
     "pages/detailsStwentyTwo/detailsStwentyTwo",
+    "pages/detailsGthreeZeroEight/detailsGthreeZeroEight",
+    "pages/detailsTSsix/detailsTSsix",
+    "pages/detailsAeleven/detailsAeleven",
+    "pages/detailsFfive/detailsFfive",
+    "pages/detailsFeleven/detailsFeleven",
     "pages/detailsStwentythree/detailsStwentythree",
-    "pages/detailsKsixteen/detailsKsixteen",
-    "pages/detailsNewKone/detailsNewKone",
-    "pages/detailsKtwo/detailsKtwo"
+    "pages/detailsKsixteen/detailsKsixteen"
 
   ],
   "window": {
