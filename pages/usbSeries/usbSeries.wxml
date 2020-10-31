@@ -1,0 +1,22 @@
+<view class="container">
+  <view class="tag_maxdiv" style="width:100%;">
+    <image mode="widthFix"
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/152003/13/4106/474130/5f9d0a2aE3025e08f/fe2db61b9536591e.jpg" />
+  </view>
+
+  <view class="tag_maxdiv" style="position: absolute;top: {{top}};padding-bottom: 40rpx;">
+
+    <view class="tag_maxdiv tag_width" bindtap="detailsNewKonedj"> 
+      <image mode="widthFix"
+          src="https://img11.360buyimg.com/ddimg/jfs/t1/138466/9/12641/183852/5f9d0aa6Ef570fdc7/6500baf8d6f3e0ac.png" />
+    </view>
+
+    <view class="tag_maxdiv tag_width" bindtap="detailsKtwodj"> 
+      <image mode="widthFix"
+          src="https://img10.360buyimg.com/ddimg/jfs/t1/131838/7/13925/167480/5f9d0abcE51a053a5/ed056e72a312ca0b.png" />
+    </view>
+
+  </view>
+
+
+</view>

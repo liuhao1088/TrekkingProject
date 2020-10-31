@@ -1,75 +1,41 @@
 {
-  "pages":[ 
+  "pages": [
     "pages/index/index",
     "pages/usbSeries/usbSeries",
-    
-    "pages/carMachineSeries/carMachineSeries",
-   
     "pages/video/video",
     "pages/rearviewMirrorSeries/rearviewMirrorSeries",
     "pages/hiddenSeries/hiddenSeries",
     "pages/streamingMediaSeries/streamingMediaSeries",
-    
-   
-    "pages/detailsMoneHundredAndSixteen/detailsMoneHundredAndSixteen",
-    "pages/detailsMtwoHundredThirtyTwo/detailsMtwoHundredThirtyTwo",
-    "pages/detailsMGoneHundredThirtyTwo/detailsMGoneHundredThirtyTwo",
-    "pages/detailsMGtwoHundredThirtyTwo/detailsMGtwoHundredThirtyTwo",
+
+
     "pages/detailsNewKone/detailsNewKone",
     "pages/detailsKtwo/detailsKtwo",
-    "pages/detailsKthree/detailsKthree",
     "pages/detailsKfive/detailsKfive",
-    "pages/detailsKsix/detailsKsix",
     "pages/detailsXfivedv/detailsXfivedv",
-    "pages/detailsXnine/detailsXnine",
     "pages/detailsXthree/detailsXthree",
-    "pages/detailsXfive/detailsXfive",
     "pages/detailsXsix/detailsXsix",
-    "pages/detailsXfivev/detailsXfivev",
-    "pages/detailsXfives/detailsXfives",
     "pages/detailsXten/detailsXten",
     "pages/detailsXeleven/detailsXeleven",
-    "pages/detailsTruckAndTen/detailsTruckAndTen",
-    "pages/detailsTruckAndSeven/detailsTruckAndSeven",
     "pages/detailsKtwentyNine/detailsKtwentyNine",
-    "pages/detailsStwenty/detailsStwenty",
-    "pages/detailsKeight/detailsKeight",
-    "pages/detailsKnine/detailsKnine",
     "pages/detailsKten/detailsKten",
     "pages/detailsKeleven/detailsKeleven",
-    "pages/detailsKthirty/detailsKthirty",
     "pages/detailsSeleven/detailsSeleven",
-    "pages/detailsSthirteen/detailsSthirteen",
-    "pages/detailsSfifteen/detailsSfifteen",
-    "pages/detailsSnineteen/detailsSnineteen",
-    "pages/detailsStwentyOne/detailsStwentyOne",
     "pages/detailsStwentyTwo/detailsStwentyTwo",
-    "pages/detailsSseventy/detailsSseventy",
-    "pages/detailsSseventeen/detailsSseventeen",
     "pages/detailsGthreeZeroEight/detailsGthreeZeroEight",
-    "pages/detailsGfiveZeroEight/detailsGfiveZeroEight",
     "pages/detailsTSsix/detailsTSsix",
-    "pages/detailsFseven/detailsFseven",
-    "pages/detailsTSfive/detailsTSfive",
-    "pages/detailsFsix/detailsFsix",
-    "pages/detailsFtenS/detailsFtenS",
     "pages/detailsAeleven/detailsAeleven",
-    "pages/detailsTSthree/detailsTSthree",
     "pages/detailsFfive/detailsFfive",
     "pages/detailsFeleven/detailsFeleven",
-    "pages/detailsFseventy/detailsFseventy",
     "pages/detailsStwentythree/detailsStwentythree",
-    "pages/detailsKsixteen/detailsKsixteen",
-    
-    "pages/detailsXtwelve/detailsXtwelve"
-   
+    "pages/detailsKsixteen/detailsKsixteen"
+
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "Weixin",
-    "navigationBarTextStyle":"black",
-    "navigationStyle":"default"
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "default"
   },
   "sitemapLocation": "sitemap.json"
 }

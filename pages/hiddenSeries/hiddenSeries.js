@@ -12,59 +12,10 @@ Page({
       url: "../detailsKtwentyNine/detailsKtwentyNine"
     })
   },
-  detailsStwentydj:function(e){
-    wx.navigateTo({
-      url: "../detailsStwenty/detailsStwenty"
-    })
-  },
-  detailsKeightdj:function(e){
-    wx.navigateTo({
-      url: "../detailsKeight/detailsKeight"
-    })
-  },
-  detailsKninedj:function(e){
-    wx.navigateTo({
-      url: "../detailsKnine/detailsKnine"
-    })
-  },
+  
   detailsKtendj:function(e){
     wx.navigateTo({
       url: "../detailsKten/detailsKten"
-    })
-  },
-  detailsKelevendj:function(e){
-    wx.navigateTo({
-      url: "../detailsKeleven/detailsKeleven"
-    })
-  },
-  detailsKthirtydj:function(e){
-    wx.navigateTo({
-      url: "../detailsKthirty/detailsKthirty"
-    })
-  },
-  detailsSelevendj:function(e){
-    wx.navigateTo({
-      url: "../detailsSeleven/detailsSeleven"
-    })
-  },
-  detailsSthirteendj:function(e){
-    wx.navigateTo({
-      url: "../detailsSthirteen/detailsSthirteen"
-    })
-  },
-  detailsSfifteendj:function(e){
-    wx.navigateTo({
-      url: "../detailsSfifteen/detailsSfifteen"
-    })
-  },
-  detailsSnineteendj:function(e){
-    wx.navigateTo({
-      url: "../detailsSnineteen/detailsSnineteen"
-    })
-  },
-  detailsStwentyOnedj:function(e){
-    wx.navigateTo({
-      url: "../detailsStwentyOne/detailsStwentyOne"
     })
   },
   detailsStwentyTwodj:function(e){
@@ -72,29 +23,14 @@ Page({
       url: "../detailsStwentyTwo/detailsStwentyTwo"
     })
   },
-  detailsSseventydj:function(e){
-    wx.navigateTo({
-      url: "../detailsSseventy/detailsSseventy"
-    })
-  },
-  detailsSseventeendj:function(e){
-    wx.navigateTo({
-      url: "../detailsSseventeen/detailsSseventeen"
-    })
-  },
   detailsGthreeZeroEightdj:function(e){
     wx.navigateTo({
       url: "../detailsGthreeZeroEight/detailsGthreeZeroEight"
     })
   },
-  detailsGfiveZeroEightdj:function(e){
-    wx.navigateTo({
-      url: "../detailsGfiveZeroEight/detailsGfiveZeroEight"
-    })
-  },
   detailsStwentythreedj:function(e){
     wx.navigateTo({
-      url: "../detailsGfiveZeroEight/detailsGfiveZeroEight"
+      url: "../detailsStwentythree/detailsStwentythree"
     })
   },
   detailsKsixteendj:function(e){

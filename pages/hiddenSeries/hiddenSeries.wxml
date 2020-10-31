@@ -30,7 +30,7 @@
           src="https://img12.360buyimg.com/ddimg/jfs/t1/150308/37/12737/138455/5f9d0808Ebf84d264/cb1c051e555e064f.png" />
     </view>
 
-    <view class="tag_maxdiv tag_width"  bindtap="detailsGthreeZeroEightdj" >
+    <view class="tag_maxdiv tag_width"  bindtap="detailsKsixteendj" >
       <image mode="widthFix"
           src="https://img12.360buyimg.com/ddimg/jfs/t1/137435/23/14149/148751/5f9d081dEd822309a/0be6cea610bb460d.png" />
     </view>
