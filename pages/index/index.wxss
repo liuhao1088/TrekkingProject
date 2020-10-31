@@ -70,7 +70,7 @@ image {
 
 .ckgd{
   height: 100%;
-  width: 150rpx;
+  width: 130rpx;
   float: right;
   margin-top: 10rpx;
   margin-right: 10rpx;
