@@ -1,7 +1,7 @@
 <view class="container">
   <view class="tag_maxdiv" style="width:100%;">
     <image mode="widthFix"
-      src="https://img13.360buyimg.com/ddimg/jfs/t1/148435/10/12870/314623/5f9cd6d1Ee2a5e26d/2e46690d398d9a1a.jpg" />
+      src="https://img13.360buyimg.com/ddimg/jfs/t1/136634/7/14052/311154/5f9d289dEa11fc2b8/56a88e1e9bfd516f.jpg" />
   </view>
 
   <view class="tag_maxdiv tag_styel" style="width:100%;position: absolute;top: {{top}};">
@@ -31,14 +31,14 @@
     <view class="tag_maxdiv tag" bindtap="rearviewMirrorSeriesdj">
       <view class="maxdiv">
         <image mode="widthFix"
-          src="https://img12.360buyimg.com/ddimg/jfs/t1/136820/12/14096/47301/5f9cda51Eff340f6e/3188505ac3cb3967.png" />
+          src="https://img10.360buyimg.com/ddimg/jfs/t1/141385/11/12800/46981/5f9d2935Ee4c7fa57/b3aaf82fa3e19c71.png" />
       </view>
     </view>
 
     <view class="tag_maxdiv tag" bindtap="hiddenSeriesdj">
       <view class="maxdiv">
         <image mode="widthFix"
-          src="https://img13.360buyimg.com/ddimg/jfs/t1/121053/37/16863/42190/5f9cda88E306d4a27/c00222324ea3353a.png" />
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/125712/11/16911/41522/5f9d2957E17abbe23/5fb4bfb715e3520f.png" />
       </view>
     </view>
 
@@ -78,7 +78,7 @@
    
   </view>
 
-  <view class="tag_maxdiv" style="width: 100%;margin-top: -20rpx;">
+  <view class="tag_maxdiv" style="width: 100%;margin-top: -120rpx;">
       <view class="yxzc_div">
         <image mode="widthFix"
           src="https://img11.360buyimg.com/ddimg/jfs/t1/122822/19/16818/26516/5f9cff42Edc27ae6e/8effc0c64e2f09c2.png">
