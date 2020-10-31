@@ -1,6 +1,6 @@
 page {
   height: 100%;
-  /* background-color: #00895a; */
+   background-color: #00a072;
 }
 
 .tag_maxdiv {
