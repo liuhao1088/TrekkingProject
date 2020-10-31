@@ -5,6 +5,9 @@ Page({
    * 页面的初始数据
    */
   data: {
+    top:"",
+    height:'',
+    width:''
     // imgUrl:[
     //   {
     //     url:'https://img14.360buyimg.com/ddimg/jfs/t1/145648/22/10851/498741/5f881e74E2709c116/8970ce38e6976c24.png',
@@ -97,11 +100,24 @@ Page({
       url: "../video/video"
     })
   },
+  
+
+
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-
+    var windowHeight = wx.getSystemInfoSync().windowHeight;
+    console.log(windowHeight);
+    if(windowHeight>800){
+      this.setData({
+        top: "33%"
+      })
+    }else{
+      this.setData({
+        top: "40%"
+      })
+    }
   },
 
   /**

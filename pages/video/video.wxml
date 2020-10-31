@@ -1,7 +1,7 @@
 <view class="container">
   <view class="tag_maxdiv" style="width:100%;">
     <image mode="widthFix"
-          src="https://img10.360buyimg.com/ddimg/jfs/t1/135086/19/13195/203242/5f8fde4dE0b6846ef/f9320164026bd765.png" />
+          src="https://img13.360buyimg.com/ddimg/jfs/t1/125704/19/16903/87377/5f9d0feeE6e8156b4/2e7163ac6bfd0cd9.jpg" />
   </view>
 
   <view class="tag_maxdiv" style="position: absolute;top: {{top}};padding-bottom: 40rpx;">

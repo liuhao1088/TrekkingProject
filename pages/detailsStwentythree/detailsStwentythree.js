@@ -1,38 +1,18 @@
-// pages/truckSeries/truckSeries.js
+// pages/detailsStwentythree/detailsStwentythree.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    top:"70%"
-  },
-  detailsTruckAndTendj:function(e){
-    wx.navigateTo({
-      url: "../detailsTruckAndTen/detailsTruckAndTen"
-    })
-  },
-  detailsTruckAndSevendj:function(e){
-    wx.navigateTo({
-      url: "../detailsTruckAndSeven/detailsTruckAndSeven"
-    })
+
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    var windowHeight = wx.getSystemInfoSync().windowHeight;
-    console.log(windowHeight);
-    if(windowHeight>800){
-      this.setData({
-        top: "60%"
-      })
-    }else{
-      this.setData({
-        top: "70%"
-      })
-    }
+
   },
 
   /**

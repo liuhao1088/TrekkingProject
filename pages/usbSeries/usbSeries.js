@@ -5,7 +5,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-    top:"25%"
+    top:""
   },
   detailsNewKonedj:function(e){
     wx.navigateTo({
@@ -17,21 +17,6 @@ Page({
       url: "../detailsKtwo/detailsKtwo"
     })
   },
-  detailsKthreedj:function(e){
-    wx.navigateTo({
-      url: "../detailsKthree/detailsKthree"
-    })
-  },
-  detailsKfivedj:function(e){
-    wx.navigateTo({
-      url: "../detailsKfive/detailsKfive"
-    })
-  },
-  detailsKsixdj:function(e){
-    wx.navigateTo({
-      url: "../detailsKsix/detailsKsix"
-    })
-  },
   /**
    * 生命周期函数--监听页面加载
    */
@@ -40,11 +25,11 @@ Page({
     console.log(windowHeight);
     if(windowHeight>800){
       this.setData({
-        top: "20%"
+        top: "60%"
       })
     }else{
       this.setData({
-        top: "25%"
+        top: "70%"
       })
     }
   },

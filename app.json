@@ -8,7 +8,6 @@
     "pages/video/video",
     "pages/rearviewMirrorSeries/rearviewMirrorSeries",
     "pages/hiddenSeries/hiddenSeries",
-    "pages/truckSeries/truckSeries",
     "pages/streamingMediaSeries/streamingMediaSeries",
     
    
@@ -59,6 +58,9 @@
     "pages/detailsFfive/detailsFfive",
     "pages/detailsFeleven/detailsFeleven",
     "pages/detailsFseventy/detailsFseventy",
+    "pages/detailsStwentythree/detailsStwentythree",
+    "pages/detailsKsixteen/detailsKsixteen",
+    
     "pages/detailsXtwelve/detailsXtwelve"
    
   ],

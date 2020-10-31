@@ -24,7 +24,7 @@ Page({
         url:'https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/X5DV4.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1603276063;33139276063&q-key-time=1603276063;33139276063&q-header-list=&q-url-param-list=&q-signature=082cd80a0dd8081570e28ce3fad69d5579e38fd7',
         name:'高清行车记录仪',
         title:'流媒体系列产品',
-        yw:'V4'
+        yw:'X5Dv4'
       },
       {
         url:'https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E5%BE%92%E6%AD%A5%E5%A4%A9%E4%B8%8BS11.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1603276094;33139276094&q-key-time=1603276094;33139276094&q-header-list=&q-url-param-list=&q-signature=83b5a00004e554852ef35137285220dc729bc3d1',
@@ -71,7 +71,7 @@ Page({
     console.log(windowHeight);
     if(windowHeight>800){
       this.setData({
-        top: "15%"
+        top: "16%"
       })
     }else{
       this.setData({

@@ -1,32 +1,19 @@
 /* pages/streamingMediaSeries/streamingMediaSeries.wxss */
 page {
-  background-color: #fafafa;
+   background-color: #039b70; 
 }
 
 .tag_maxdiv {
-  width: 90%;
+  width: 95%;
   float: left;
 }
 
 image {
   height: 100%;
   width: 100%;
-
-}
-
-.submenu_div {
-  width: calc(95%/3);
-  float: left;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.submenu_img{
-  width: 95%;
-  
 }
 
 .tag_width{
+  height: 320rpx;
   width: 100%;
 }

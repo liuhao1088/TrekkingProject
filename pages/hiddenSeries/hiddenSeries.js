@@ -5,7 +5,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-    top:"25%"
+    top:""
   },
   detailsKtwentyNinedj:function(e){
     wx.navigateTo({
@@ -92,6 +92,16 @@ Page({
       url: "../detailsGfiveZeroEight/detailsGfiveZeroEight"
     })
   },
+  detailsStwentythreedj:function(e){
+    wx.navigateTo({
+      url: "../detailsGfiveZeroEight/detailsGfiveZeroEight"
+    })
+  },
+  detailsKsixteendj:function(e){
+    wx.navigateTo({
+      url: "../detailsKsixteen/detailsKsixteen"
+    })
+  },
   /**
    * 生命周期函数--监听页面加载
    */
@@ -100,11 +110,11 @@ Page({
     console.log(windowHeight);
     if(windowHeight>800){
       this.setData({
-        top: "20%"
+        top: "35%"
       })
     }else{
       this.setData({
-        top: "25%"
+        top: "40%"
       })
     }
   },

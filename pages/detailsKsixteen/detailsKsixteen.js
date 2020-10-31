@@ -1,42 +1,18 @@
-// pages/streamingMediaSeries/streamingMediaSeries.js
+// pages/detailsKsixteen/detailsKsixteen.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    top:""
+
   },
-  detailsTSsixdj:function(e){
-    wx.navigateTo({
-      url: "../detailsTSsix/detailsTSsix"
-    })
-  },
-  detailsAelevendj:function(e){
-    wx.navigateTo({
-      url: "../detailsAeleven/detailsAeleven"
-    })
-  },
-  detailsFsevendj:function(e){
-    wx.navigateTo({
-      url: "../detailsFseven/detailsFseven"
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    var windowHeight = wx.getSystemInfoSync().windowHeight;
-    console.log(windowHeight);
-    if(windowHeight>800){
-      this.setData({
-        top: "43%"
-      })
-    }else{
-      this.setData({
-        top: "50%"
-      })
-    }
+
   },
 
   /**
@@ -50,13 +26,7 @@ Page({
    * 生命周期函数--监听页面显示
    */
   onShow: function () {
-    wx.showShareMenu({
 
-      withShareTicket:true,
-      
-      menus:['shareAppMessage','shareTimeline']
-      
-      })
   },
 
   /**

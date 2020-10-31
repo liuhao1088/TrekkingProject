@@ -5,16 +5,11 @@ Page({
    * 页面的初始数据
    */
   data: {
-    top:"25%"
+    top:""
   },
   detailsXfivedvdj:function(e){
     wx.navigateTo({
       url: "../detailsXfivedv/detailsXfivedv"
-    })
-  },
-  detailsXninedj:function(e){
-    wx.navigateTo({
-      url: "../detailsXnine/detailsXnine"
     })
   },
   detailsXthreedj:function(e){
@@ -22,29 +17,9 @@ Page({
       url: "../detailsXthree/detailsXthree"
     })
   },
-  detailsXfivedj:function(e){
-    wx.navigateTo({
-      url: "../detailsXfive/detailsXfive"
-    })
-  },
-  detailsXsixdj:function(e){
-    wx.navigateTo({
-      url: "../detailsXsix/detailsXsix"
-    })
-  },
-  detailsXfivevdj:function(e){
-    wx.navigateTo({
-      url: "../detailsXfivev/detailsXfivev"
-    })
-  },
   detailsXfivesdj:function(e){
     wx.navigateTo({
       url: "../detailsXfives/detailsXfives"
-    })
-  },
-  detailsXtendj:function(e){
-    wx.navigateTo({
-      url: "../detailsXten/detailsXten"
     })
   },
   detailsXelevendj:function(e){
@@ -52,11 +27,7 @@ Page({
       url: "../detailsXeleven/detailsXeleven"
     })
   },
-  detailsXtwelvedj:function(e){
-    wx.navigateTo({
-      url: "../detailsXtwelve/detailsXtwelve"
-    })
-  },
+ 
 
   /**
    * 生命周期函数--监听页面加载
@@ -66,11 +37,11 @@ Page({
     console.log(windowHeight);
     if(windowHeight>800){
       this.setData({
-        top: "20%"
+        top: "33%"
       })
     }else{
       this.setData({
-        top: "25%"
+        top: "40%"
       })
     }
   },

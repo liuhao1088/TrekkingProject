@@ -1,76 +1,30 @@
 <view class="container">
   <view class="tag_maxdiv" style="width:100%;">
     <image mode="widthFix"
-          src="https://img14.360buyimg.com/ddimg/jfs/t1/131626/7/13281/334168/5f912588E78dd5e49/56dcca22478581a9.png" />
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/128212/22/16616/307949/5f9d0078E3865e2d9/41675cd5c7c7aac6.jpg" />
   </view>
 
-  <view class="tag_maxdiv" style="width:90%;position: absolute;top: {{top}};padding-bottom: 40rpx;">
-    <view class="tag_maxdiv tag_width"  bindtap="detailsXfivedvdj">
+  <view class="tag_maxdiv" style="position: absolute;top: {{top}};padding-bottom: 40rpx;">
+    <view class="tag_maxdiv tag_width" bindtap="detailsXfivedvdj">
       <image mode="widthFix"
-          src="https://img12.360buyimg.com/ddimg/jfs/t1/136535/39/13101/151223/5f8fab05Ed709b0a0/1d9d96e172f5eb6a.png" />
+        src="https://img13.360buyimg.com/ddimg/jfs/t1/131461/29/14155/148423/5f9d018bEf7b767de/b78b619203ee345b.png" />
     </view>
 
-    <view class="tag_maxdiv tag_width" style="margin-top: 20rpx;" bindtap="detailsXninedj">
+    <view class="tag_maxdiv tag_width" bindtap="detailsXthreedj">
       <image mode="widthFix"
-          src="https://img14.360buyimg.com/ddimg/jfs/t1/122169/38/15898/160567/5f90f316E30ac880c/41cce5851c72535c.png" />
+        src="https://img13.360buyimg.com/ddimg/jfs/t1/137039/30/14121/134970/5f9d01c2E6b17490d/9b76bcbaab13acba.png" />
     </view>
 
-    <view class="tag_maxdiv tag_width" style="margin-top: 20rpx;"  >
-      <view class="submenu_div" bindtap="detailsXthreedj">
-          <image mode="widthFix"
-          src="https://img12.360buyimg.com/ddimg/jfs/t1/124332/39/15790/63885/5f8fb0a7Ef8d5b643/322a8bec038b9b6d.png" />
-      </view>
-
-      <view class="submenu_div" style="margin-left: 15rpx;" bindtap="detailsXfivedj">
-          <image mode="widthFix"
-          src="https://img14.360buyimg.com/ddimg/jfs/t1/132824/16/13109/72086/5f90f304E951a2ff4/239946bdef77ee98.png" />
-      </view>
-
-      <view class="submenu_div" style="margin-left: 15rpx;" bindtap="detailsXsixdj">
-          <image mode="widthFix"
-          src="https://img10.360buyimg.com/ddimg/jfs/t1/133376/12/12993/69126/5f8fb14aEdd90f9e0/220b1ea06a0088c1.png" />
-      </view>
-
-      
-     
-
+    <view class="tag_maxdiv tag_width" bindtap="detailsXfivesdj" >
+      <image mode="widthFix"
+        src="https://img13.360buyimg.com/ddimg/jfs/t1/131976/20/14043/145414/5f9d02a5Ea1cd6033/dbed008cc1cb1c14.png" />
     </view>
 
-    <view class="tag_maxdiv tag_width" style="margin-top: 35rpx;">
-      <view class="submenu_div" bindtap="detailsXfivevdj">
-          <image mode="widthFix"
-          src="https://img13.360buyimg.com/ddimg/jfs/t1/120026/34/15787/60820/5f8fb1baE1c18b028/753246d148c3b9f1.png" />
-      </view>
-
-      <view class="submenu_div" style="margin-left: 15rpx;" bindtap="detailsXfivesdj">
-          <image mode="widthFix"
-          src="https://img12.360buyimg.com/ddimg/jfs/t1/121034/17/15895/68567/5f90f346E3eedb3c5/783052bec84ccfa7.png" />
-      </view>
-
-      <view class="submenu_div" style="margin-left: 15rpx;" bindtap="detailsXtendj">
-          <image mode="widthFix"
-          src="https://img12.360buyimg.com/ddimg/jfs/t1/119726/8/19857/75512/5f90f35dE43b0ed74/b39fcc9ef0b11afb.png" />
-      </view>
-
+    <view class="tag_maxdiv tag_width" bindtap="detailsXelevendj" >
+      <image mode="widthFix"
+        src="https://img13.360buyimg.com/ddimg/jfs/t1/133096/17/14227/166148/5f9d02fbEc8959dcb/367953298ecb2aac.png" />
     </view>
-
-    <view class="tag_maxdiv tag_width" style="margin-top: 35rpx;">
-      <view class="submenu_div" bindtap="detailsXelevendj">
-          <image mode="widthFix"
-          src="https://img11.360buyimg.com/ddimg/jfs/t1/144745/25/11525/70666/5f8fd26cE3111ade6/d80bb086396263e1.png" />
-      </view>
-
-      <view class="submenu_div" style="margin-left: 15rpx;" bindtap="detailsXtwelvedj">
-          <image mode="widthFix"
-          src="https://img10.360buyimg.com/ddimg/jfs/t1/135284/26/13209/65320/5f8fd280Ee55b2c81/a0b0d4d474ee76a7.png" />
-      </view>
-
-    </view>
-
-
 
 
   </view>
-
-
 </view>

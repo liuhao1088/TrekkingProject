@@ -1,10 +1,10 @@
 /* pages/usbSeries/usbSeries.wxss */
 page {
-  background-color: #fafafa;
+  background-color: #009d6a;
 }
 
 .tag_maxdiv {
-  width: 90%;
+  width: 95%;
   float: left;
 }
 
@@ -14,7 +14,7 @@ image {
   
 }
 
-.tag{
+.tag_width{
   width: 100%;
-  margin-top: 20rpx;
+  height: 290rpx;
 }
