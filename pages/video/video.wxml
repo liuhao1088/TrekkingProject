@@ -1,7 +1,7 @@
 <view class="container">
   <view class="tag_maxdiv" style="width:100%;">
     <image mode="widthFix"
-          src="https://img13.360buyimg.com/ddimg/jfs/t1/125704/19/16903/87377/5f9d0feeE6e8156b4/2e7163ac6bfd0cd9.jpg" />
+          src="https://img11.360buyimg.com/ddimg/jfs/t1/135248/26/14183/36831/5f9d2c97E1e729ae5/75d9349b4e00c865.jpg" />
   </view>
 
   <view class="tag_maxdiv" style="position: absolute;top: {{top}};padding-bottom: 40rpx;">
@@ -14,14 +14,14 @@
         auto-pause-if-navigate
         play-btn-position="center"></video>
       </view>
-      <view class="nr_div">
+      <!-- <view class="nr_div">
         <view class="title_div">
           <view class="title">{{item.name}}</view>
           <view class="description">{{item.title}}</view>
         </view>
 
         <view class="model">{{item.yw}}</view>
-      </view>
+      </view> -->
     </view>
    
   </view>
