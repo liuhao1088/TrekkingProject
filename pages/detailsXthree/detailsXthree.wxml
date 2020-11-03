@@ -1,9 +1,9 @@
 <view class="container">
-<view class="maxdiv">
+  <view class="maxdiv">
     <view class="tag_maxdiv" style="width: 100%;">
       <image mode="widthFix"
-    src="https://img12.360buyimg.com/ddimg/jfs/t1/144108/38/12629/422089/5f9d145aEbd6f8f0b/c6dbdc0f04d6d8b0.jpg">
-  </image>
+        src="https://img12.360buyimg.com/ddimg/jfs/t1/144108/38/12629/422089/5f9d145aEbd6f8f0b/c6dbdc0f04d6d8b0.jpg">
+      </image>
     </view>
   </view>
 
@@ -14,6 +14,6 @@
       </image>
     </view>
   </view>
- 
+
 
 </view>
