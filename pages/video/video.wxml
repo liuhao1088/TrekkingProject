@@ -1,7 +1,15 @@
 <view class="container">
   <view class="tag_maxdiv" style="width:100%;">
     <image mode="widthFix"
-          src="https://img11.360buyimg.com/ddimg/jfs/t1/135248/26/14183/36831/5f9d2c97E1e729ae5/75d9349b4e00c865.jpg" />
+          src="https://img11.360buyimg.com/ddimg/jfs/t1/154719/24/4545/46968/5fa0c519E26d6dea1/5cdc329c4d2ccc02.jpg" />
+  </view>
+
+  <view class="tag_maxdiv" style="width: 100%;">
+    <view class="yxzc_div">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/122822/19/16818/26516/5f9cff42Edc27ae6e/8effc0c64e2f09c2.png">
+      </image>
+    </view>
   </view>
 
   <view class="tag_maxdiv" style="position: absolute;top: {{top}};padding-bottom: 40rpx;">

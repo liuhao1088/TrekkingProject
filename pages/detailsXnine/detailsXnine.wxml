@@ -1,6 +1,17 @@
 <view class="container">
-  <image mode="widthFix"
-    src="https://img14.360buyimg.com/ddimg/jfs/t1/139243/25/11592/1178636/5f8ff5d8E108d6d0a/05ff44d21508738d.jpg">
-  </image>
+  <view class="maxdiv">
+    <view class="tag_maxdiv" style="width: 100%;">
+      <image mode="widthFix"
+        src="https://img14.360buyimg.com/ddimg/jfs/t1/139243/25/11592/1178636/5f8ff5d8E108d6d0a/05ff44d21508738d.jpg">
+      </image>
+    </view>
+  </view>
 
+  <view class="tag_maxdiv" style="width: 100%;">
+    <view class="yxzc_div">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/122822/19/16818/26516/5f9cff42Edc27ae6e/8effc0c64e2f09c2.png">
+      </image>
+    </view>
+  </view>
 </view>
