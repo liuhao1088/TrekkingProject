@@ -12,11 +12,11 @@
       </image>
     </view>
 
-    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+    <!-- <view class="tag_maxdiv" style="margin-top: 20rpx;">
       <image mode="widthFix"
         src="https://img10.360buyimg.com/ddimg/jfs/t1/141940/18/12971/2437603/5fa0bde0Ed8aeb1c2/0bc3188201300b6f.jpg">
       </image>
-    </view>
+    </view> -->
 
 
 
