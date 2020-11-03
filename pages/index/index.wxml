@@ -46,6 +46,7 @@
       <view class="maxdiv">
         <image mode="widthFix"
           src="https://img10.360buyimg.com/ddimg/jfs/t1/138969/40/12323/54595/5f9cdb1cE42f57606/35aca5773a3f8043.png" />
+        <!--  -->
       </view>
     </view>
 
@@ -75,14 +76,14 @@
     </view>
 
 
-   
+
   </view>
 
   <view class="tag_maxdiv" style="width: 100%;">
-      <view class="yxzc_div">
-        <image mode="widthFix"
-          src="https://img11.360buyimg.com/ddimg/jfs/t1/122822/19/16818/26516/5f9cff42Edc27ae6e/8effc0c64e2f09c2.png">
-        </image>
-      </view>
+    <view class="yxzc_div">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/122822/19/16818/26516/5f9cff42Edc27ae6e/8effc0c64e2f09c2.png">
+      </image>
     </view>
+  </view>
 </view>

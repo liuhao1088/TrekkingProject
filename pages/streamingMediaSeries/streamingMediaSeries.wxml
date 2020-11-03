@@ -4,6 +4,14 @@
       src="https://img14.360buyimg.com/ddimg/jfs/t1/128212/22/16616/307949/5f9d0078E3865e2d9/41675cd5c7c7aac6.jpg" />
   </view>
 
+  <view class="tag_maxdiv" style="width: 100%;">
+    <view class="yxzc_div">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/122822/19/16818/26516/5f9cff42Edc27ae6e/8effc0c64e2f09c2.png">
+      </image>
+    </view>
+  </view>
+
   <view class="tag_maxdiv" style="position: absolute;top: {{top}};padding-bottom: 40rpx;">
     <view class="tag_maxdiv tag_width" bindtap="detailsXfivedvdj">
       <image mode="widthFix"
