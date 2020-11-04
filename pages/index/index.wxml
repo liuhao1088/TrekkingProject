@@ -68,7 +68,7 @@
       <view class="tag_maxdiv" style="width:100%;">
         <view class="video_div">
           <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
-            src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/F5.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1603275566;33139275566&q-key-time=1603275566;33139275566&q-header-list=&q-url-param-list=&q-signature=54dac7ea92d4e89b13b3219d9c6901578b6f669c"
+            src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/X5DV4.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1603276063;33139276063&q-key-time=1603276063;33139276063&q-header-list=&q-url-param-list=&q-signature=082cd80a0dd8081570e28ce3fad69d5579e38fd7"
             bindloadedmetadata="videometa" binderror="videoErrorCallback" show-center-play-btn="true" controls
             auto-pause-if-navigate play-btn-position="center"></video>
         </view>
