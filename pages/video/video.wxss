@@ -4,16 +4,19 @@ page {
 }
 
 .tag_maxdiv {
-  width: 90%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
   float: left;
 }
 
 image {
   height: 100%;
   width: 100%;
-  
+  vertical-align: middle;
+  text-align: center;
 }
-
 .video_div{
   height: 380rpx;
   width: 100%;
@@ -21,60 +24,7 @@ image {
   float: left;
 }
 
-.nr_div{
-  width: 100%;
-  float: left;
-  margin-top: 10rpx;
-}
-
-.title_div{
-  width: 50%;
-  float: left;
-  border: 0rpx solid blue;
-  margin-left: 20rpx;
-}
-
-.title{
-  line-height: 60rpx;
-  font-size: 36rpx;
-  color: #909090;
-  float: left;
-}
-.description{
-  line-height: 44rpx;
-  font-size: 28rpx;
-  color: #dedede;
-  float: left;
-}
-
-.model{
-  line-height: 100rpx;
-  font-size: 70rpx;
-  text-align: center;
-  font-weight: 700;
-  float: right;
-  color: #ececec;
-  margin-right: 40rpx;
-}
-
-.zm{
-  line-height: 116rpx;
-  font-size: 40rpx;
-  font-weight: 700;
-  float: right;
-  margin-right: 40rpx;
-  color: #ececec;
-}
-
 .tag{
   width:100%;
   padding-bottom: 40rpx;
-  
-}
-
-.yxzc_div {
-  width: 100%;
-  height: 100%;
-  background-color: #262626;
-  float: left;
 }

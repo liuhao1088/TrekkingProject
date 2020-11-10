@@ -4,24 +4,22 @@ page {
 }
 
 .tag_maxdiv {
-  width: 95%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
   float: left;
 }
 
 .tag_width{
   height: 280rpx;
   width: 100%;
-}
+  margin-top: 20rpx;
+} 
 
 image {
   height: 100%;
   width: 100%;
+  vertical-align: middle;
+  text-align: center;
 }
-
-.yxzc_div {
-  width: 100%;
-  height: 100%;
-  background-color: #262626;
-  float: left;
-}
-

@@ -6,43 +6,42 @@
 
   <view class="tag_maxdiv tag_styel" style="width:100%;position: absolute;top: {{top}};">
 
-    <view class="tag_maxdiv" style="height: 60rpx;">
-      <view class="tag_maxdiv" style="width:100%;">
-        <view class="tag_div">
-          <view class="title">产品矩阵展示</view>
-          <view class="yw_div">Product presentation</view>
-        </view>
+    <view class="subnav">
+      <view class="tag_div">
+        <view class="title">产品矩阵展示</view>
+        <view class="yw_div">Product presentation</view>
+      </view>
 
-        <view class="iocn">
-          <image mode="widthFix"
-            src="https://img13.360buyimg.com/ddimg/jfs/t1/148702/26/11916/584/5f92be4cE6398f050/6887a2cc29e3bc7f.png" />
-        </view>
+      <view class="iocn">
+        <image mode="widthFix"
+          src="https://img13.360buyimg.com/ddimg/jfs/t1/148702/26/11916/584/5f92be4cE6398f050/6887a2cc29e3bc7f.png" />
       </view>
     </view>
 
 
-    <view class="tag_maxdiv tag" bindtap="streamingMediaSeriesdj">
+
+    <view class="tag_maxdiv" bindtap="streamingMediaSeriesdj">
       <view class="maxdiv">
         <image mode="widthFix"
           src="https://img14.360buyimg.com/ddimg/jfs/t1/139952/32/12767/56143/5f9cd7e9Ea8bc257a/654f8fdc7db2c0c4.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag" bindtap="rearviewMirrorSeriesdj">
+    <view class="tag_maxdiv" bindtap="rearviewMirrorSeriesdj">
       <view class="maxdiv">
         <image mode="widthFix"
           src="https://img10.360buyimg.com/ddimg/jfs/t1/141385/11/12800/46981/5f9d2935Ee4c7fa57/b3aaf82fa3e19c71.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag" bindtap="hiddenSeriesdj">
+    <view class="tag_maxdiv" bindtap="hiddenSeriesdj">
       <view class="maxdiv">
         <image mode="widthFix"
           src="https://img13.360buyimg.com/ddimg/jfs/t1/121053/37/16863/42190/5f9cda88E306d4a27/c00222324ea3353a.png" />
       </view>
     </view>
 
-    <view class="tag_maxdiv tag" bindtap="usbSeriesdj">
+    <view class="tag_maxdiv" bindtap="usbSeriesdj">
       <view class="maxdiv">
         <image mode="widthFix"
           src="https://img10.360buyimg.com/ddimg/jfs/t1/138969/40/12323/54595/5f9cdb1cE42f57606/35aca5773a3f8043.png" />
@@ -50,40 +49,36 @@
       </view>
     </view>
 
-    <view class="tag_maxdiv" style="height: 60rpx;margin-top: 40rpx;">
-      <view class="tag_maxdiv" style="width:100%;">
-        <view class="tag_div">
-          <view class="title">产品视频专区</view>
-          <view class="yw_div">Product video area</view>
-        </view>
 
-        <view class="ckgd" bindtap="videodj">
-          <image mode="widthFix"
-            src="https://img13.360buyimg.com/ddimg/jfs/t1/147587/22/12736/2363/5f9cdc8aE38d31ab4/339ba08d2ea46f40.png" />
-        </view>
+    <view class="subnav" style="margin-top: 40rpx;">
+      <view class="tag_div">
+        <view class="title">产品视频专区</view>
+        <view class="yw_div">Product video area</view>
       </view>
-    </view>
 
-    <view class="tag_maxdiv" style="height: 80rpx;margin-top: 20rpx;">
-      <view class="tag_maxdiv" style="width:100%;">
-        <view class="video_div">
-          <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
-            src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/X5DV4.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1603276063;33139276063&q-key-time=1603276063;33139276063&q-header-list=&q-url-param-list=&q-signature=082cd80a0dd8081570e28ce3fad69d5579e38fd7"
-            bindloadedmetadata="videometa" binderror="videoErrorCallback" show-center-play-btn="true" controls
-            auto-pause-if-navigate play-btn-position="center"></video>
-        </view>
+      <view class="ckgd" bindtap="videodj">
+        <image mode="widthFix"
+          src="https://img13.360buyimg.com/ddimg/jfs/t1/147587/22/12736/2363/5f9cdc8aE38d31ab4/339ba08d2ea46f40.png" />
       </view>
     </view>
 
 
+    <view class="tag_maxdiv" style="width:90%;margin-top: 20rpx;">
+      <view class="video_div">
+        <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
+          src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/X5DV4.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1603276063;33139276063&q-key-time=1603276063;33139276063&q-header-list=&q-url-param-list=&q-signature=082cd80a0dd8081570e28ce3fad69d5579e38fd7"
+          bindloadedmetadata="videometa" binderror="videoErrorCallback" show-center-play-btn="true" controls
+          auto-pause-if-navigate play-btn-position="center"></video>
+      </view>
+    </view>
 
-  </view>
 
-  <view class="tag_maxdiv" style="width: 100%;">
-    <view class="yxzc_div">
+    <view class="tag_maxdiv" style="width: 100%; margin-top: 60rpx;">
       <image mode="widthFix"
         src="https://img11.360buyimg.com/ddimg/jfs/t1/122822/19/16818/26516/5f9cff42Edc27ae6e/8effc0c64e2f09c2.png">
       </image>
     </view>
   </view>
+
+
 </view>
