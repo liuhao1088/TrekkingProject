@@ -1,17 +1,16 @@
 <view class="container">
-  <view class="maxdiv">
-    <view class="tag_maxdiv" style="width: 100%;">
+
+    <view class="tag_maxdiv">
       <image mode="widthFix"
         src="https://img13.360buyimg.com/ddimg/jfs/t1/135348/4/14152/472611/5f9d19e6E6de322d4/d80c400015c6d422.jpg">
       </image>
-    </view>
   </view>
 
-  <view class="tag_maxdiv" style="width: 100%;">
-    <view class="yxzc_div">
+  <view class="tag_maxdiv" style="margin-top: 60rpx;">
+  
       <image mode="widthFix"
         src="https://img11.360buyimg.com/ddimg/jfs/t1/122822/19/16818/26516/5f9cff42Edc27ae6e/8effc0c64e2f09c2.png">
       </image>
-    </view>
+   
   </view>
 </view>
